@@ -32,11 +32,4 @@ Includes risk scores and anomaly flags.
 
 ---
 
-### How to Run
-
-1. Install requirements:
-   ```bash
-   pip install pandas numpy scikit-learn
-2. Run the main script:
-   python fraud_detection.py
 
