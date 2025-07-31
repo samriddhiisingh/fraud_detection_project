@@ -1,0 +1,1001 @@
+Date,Time,Vendor Name,Invoice No,Amount,Department,Description
+28-04-2025,11:25:42,White Inc,INV-200,2701.6,Finance,Travel expenses
+15-04-2025,9:09:50,White Inc,INV-170,2318.8,HR,Travel expenses
+08-04-2025,2:41:02,"Velazquez, Santos and Davenport",INV-171,784.41,HR, 
+15-05-2025,0:18:33,"Young, Murphy and Melton",INV-129,604.33,HR,Office supplies
+07-06-2025,12:41:31,"Mendoza, Aguirre and Reed",INV-121,4242.45,Operations,Training
+19-06-2025,15:05:20,White Inc,INV-135,2921.49,HR, 
+09-05-2025,7:43:47,"Moss, Hale and Cardenas",INV-100,1803.93,IT,Training
+13-06-2025,11:33:07,"Russo, Fitzgerald and Guzman",INV-159,2313.43,Finance,Training
+02-05-2025,21:37:34,"Walters, Newton and Patterson",INV-101,2875.61,HR,Training
+22-06-2025,13:41:13,"Friedman, Adkins and Lee",INV-169,1665.12,Finance,
+10-06-2025,8:31:13,Combs-Fitzpatrick,INV-200,2988.67,Operations,Training
+23-04-2025,16:51:38,Smith-Lyons,INV-187,3095.84,Marketing,Travel expenses
+18-05-2025,9:01:47,"Walters, Newton and Patterson",INV-161,4985.66,IT,Software purchase
+03-04-2025,17:08:14,Dunn-Harris,INV-142,2984.2,Marketing,Equipment
+09-05-2025,16:35:32,"Jefferson, Gallagher and Tucker",INV-126,1818.72,Operations,Maintenance
+17-05-2025,20:15:09,"Young, Murphy and Melton",INV-140,2101.82,HR,License renewal
+27-05-2025,9:28:03,"Mendoza, Aguirre and Reed",INV-127,3194.87,Marketing,Training
+24-04-2025,16:33:33,White Inc,INV-140,4406.13,Marketing,Equipment
+22-06-2025,5:18:09,Gonzalez-Santiago,INV-115,5000,HR,Equipment
+14-06-2025,21:18:19,Combs-Fitzpatrick,INV-184,2882.03,Operations,Training
+17-04-2025,16:18:33,Marks Ltd,INV-125,2848.08,Finance,Software purchase
+18-05-2025,12:31:47,"Hunter, Garcia and Acevedo",INV-165,4551.92,Marketing,Software purchase
+13-05-2025,17:49:46,"Walters, Newton and Patterson",INV-178,1577.96,HR,Consulting fee
+15-06-2025,13:04:12,Young Inc,INV-179,4010.68,Finance, 
+09-05-2025,10:30:07,"Russo, Fitzgerald and Guzman",INV-127,2899.19,Finance,Utility bill
+29-05-2025,16:49:50,Young Inc,INV-172,704.49,IT,
+29-05-2025,21:14:03,"Jefferson, Gallagher and Tucker",INV-176,1820.67,Finance,Software purchase
+17-06-2025,20:51:54,"Young, Murphy and Melton",INV-141,2253.41,HR,Travel expenses
+21-05-2025,20:46:22,"Walters, Newton and Patterson",INV-193,4339.8,Finance,License renewal
+22-06-2025,14:05:30,Hobbs Inc,INV-132,2636.68,IT,Utility bill
+13-04-2025,18:25:40,Combs-Fitzpatrick,INV-165,3401.7,IT,
+30-06-2025,17:18:12,"Moss, Hale and Cardenas",INV-183,5580.38,HR,Utility bill
+06-06-2025,7:37:58,"Friedman, Adkins and Lee",INV-127,50000,Finance,Office supplies
+17-05-2025,8:11:47,"Mendoza, Aguirre and Reed",INV-199,4570.7,Finance,Maintenance
+12-06-2025,17:53:58,"Russo, Fitzgerald and Guzman",INV-144,2000,Marketing,Training
+18-05-2025,0:29:23,Dunn-Harris,INV-165,2777.34,Operations,Equipment
+28-05-2025,14:16:57,Lucas-Smith,INV-129,3094.78,IT,Software purchase
+17-04-2025,5:29:52,Gonzalez-Santiago,INV-127,3280.78,Operations,Software purchase
+08-06-2025,8:47:09,Young Inc,INV-164,10000,Operations,License renewal
+09-04-2025,15:28:46,"Russo, Fitzgerald and Guzman",INV-171,638.6,IT,Consulting fee
+17-05-2025,5:05:54,"Velazquez, Santos and Davenport",INV-144,5385.18,IT,License renewal
+13-06-2025,0:10:21,"Russo, Fitzgerald and Guzman",INV-194,10000,Operations,Office supplies
+14-05-2025,6:22:33,"Young, Murphy and Melton",INV-193,1897.34,Marketing,Travel expenses
+11-04-2025,0:56:39,"Velazquez, Santos and Davenport",INV-184,4860.08,Marketing,Maintenance
+05-06-2025,8:04:38,"Walters, Newton and Patterson",INV-156,1017.73,Operations,
+30-04-2025,20:55:12,"Hunter, Garcia and Acevedo",INV-193,4000,Operations, 
+29-06-2025,7:24:52,Murray Inc,INV-125,3283.33,Operations,License renewal
+17-05-2025,0:16:49,Lucas-Smith,INV-128,4545.88,Finance,Office supplies
+29-04-2025,20:58:16,"Velazquez, Santos and Davenport",INV-124,2193.72,Finance,Travel expenses
+14-05-2025,17:15:09,"Russo, Fitzgerald and Guzman",INV-162,1326.83,HR,Software purchase
+08-04-2025,22:01:03,Gonzalez-Santiago,INV-107,2078.02,Finance,Equipment
+13-04-2025,20:07:28,Hobbs Inc,INV-104,1839.43,HR,Training
+11-05-2025,8:27:30,Lucas-Smith,INV-190,1482.3,Operations, 
+26-04-2025,9:55:39,Smith-Lyons,INV-148,2985.3,Finance,Equipment
+09-05-2025,23:30:15,"Velazquez, Santos and Davenport",INV-198,807.67,Operations,License renewal
+22-04-2025,22:29:07,Hobbs Inc,INV-159,3575.74,Operations,Training
+20-06-2025,1:36:38,"Hunter, Garcia and Acevedo",INV-187,815.26,Marketing,License renewal
+18-05-2025,12:18:02,Dunn-Harris,INV-154,2421.95,IT,License renewal
+10-06-2025,20:45:13,"Hunter, Garcia and Acevedo",INV-154,5286.59,IT,Maintenance
+23-06-2025,7:34:46,"Walters, Newton and Patterson",INV-103,83.21,Finance,Equipment
+25-06-2025,14:04:55,"Young, Murphy and Melton",INV-146,1656.88,HR, 
+18-04-2025,11:05:46,"Jefferson, Gallagher and Tucker",INV-129,4640.38,Marketing,Travel expenses
+19-04-2025,8:19:35,Dunn-Harris,INV-198,3680.6,Marketing,Office supplies
+24-05-2025,9:31:24,Young Inc,INV-123,2179.79,IT,Software purchase
+22-04-2025,4:26:06,"Salinas, Aguirre and Wilson",INV-115,2448.88,Finance, 
+15-04-2025,17:48:16,"Salinas, Aguirre and Wilson",INV-154,3790.92,Finance,
+01-05-2025,17:48:00,Lucas-Smith,INV-173,3014.24,IT,Software purchase
+07-04-2025,9:00:16,Marks Ltd,INV-167,2640.81,HR,Software purchase
+07-04-2025,20:27:16,"Young, Murphy and Melton",INV-153,100000,Finance,Utility bill
+07-05-2025,6:37:26,Lucas-Smith,INV-151,2572.66,IT,Equipment
+22-05-2025,4:06:22,Dunn-Harris,INV-136,1086.78,IT,Software purchase
+13-04-2025,12:43:19,Lucas-Smith,INV-149,4223.79,HR,Software purchase
+20-04-2025,6:24:43,"Velazquez, Santos and Davenport",INV-100,2497.54,Marketing,Travel expenses
+09-05-2025,22:26:43,Combs-Fitzpatrick,INV-192,3181.38,Marketing,Utility bill
+16-06-2025,22:20:41,Hobbs Inc,INV-152,5804.7,IT,Training
+30-06-2025,1:46:31,Combs-Fitzpatrick,INV-160,3242.91,Finance,Utility bill
+07-05-2025,0:34:47,Smith-Lyons,INV-162,2370.05,Marketing,Equipment
+22-06-2025,14:14:52,Marks Ltd,INV-109,100000,Finance,Software purchase
+27-05-2025,20:59:16,White Inc,INV-134,2247.96,HR,Training
+01-06-2025,9:49:12,Combs-Fitzpatrick,INV-114,3147.04,HR,Software purchase
+23-06-2025,22:06:18,"Young, Murphy and Melton",INV-105,3135.99,Finance,Utility bill
+13-06-2025,6:05:02,"Jefferson, Gallagher and Tucker",INV-145,4669.32,Operations,
+13-04-2025,16:42:24,"Moss, Hale and Cardenas",INV-115,2118.76,Finance,Training
+03-05-2025,6:07:09,"Hunter, Garcia and Acevedo",INV-109,181.56,IT,Utility bill
+07-05-2025,18:17:00,"Mendoza, Aguirre and Reed",INV-117,3336.16,Marketing,Consulting fee
+11-05-2025,13:58:51,Hobbs Inc,INV-119,1329.98,Marketing,
+19-05-2025,2:37:43,"Hunter, Garcia and Acevedo",INV-119,3004.35,HR,License renewal
+30-05-2025,4:18:48,"Salinas, Aguirre and Wilson",INV-112,1454.54,Operations,
+27-05-2025,20:57:37,"Velazquez, Santos and Davenport",INV-143,10000,Marketing,
+28-05-2025,20:41:54,Hobbs Inc,INV-195,522.81,Operations,
+13-05-2025,21:30:58,Murray Inc,INV-140,6454.54,HR,Travel expenses
+03-06-2025,9:08:06,Smith-Lyons,INV-168,3381.16,HR,License renewal
+24-06-2025,17:42:33,"Young, Murphy and Melton",INV-129,4153.53,Operations,Software purchase
+15-05-2025,11:29:30,Combs-Fitzpatrick,INV-118,3458.49,HR,Software purchase
+26-05-2025,22:53:35,"Young, Murphy and Melton",INV-176,2140.74,Finance,Office supplies
+08-06-2025,10:58:07,Young Inc,INV-147,4626.66,HR,Consulting fee
+03-06-2025,17:30:54,"Mendoza, Aguirre and Reed",INV-128,2441.16,Marketing,Maintenance
+05-04-2025,3:11:32,"Walters, Newton and Patterson",INV-106,2782.67,HR,Consulting fee
+20-04-2025,2:15:32,Lucas-Smith,INV-117,5810.35,HR,Utility bill
+04-04-2025,21:38:17,"Russo, Fitzgerald and Guzman",INV-117,1488.11,HR, 
+16-04-2025,17:58:07,Smith-Lyons,INV-194,4834.62,IT,
+27-06-2025,3:37:03,Murray Inc,INV-133,3225.41,HR,Maintenance
+19-05-2025,16:07:18,"Salinas, Aguirre and Wilson",INV-119,4540.35,Marketing,
+13-06-2025,0:01:11,Murray Inc,INV-199,5479.84,IT,Consulting fee
+17-06-2025,1:27:54,Gonzalez-Santiago,INV-188,6964.12,Operations,Equipment
+22-05-2025,6:03:36,"Friedman, Adkins and Lee",INV-146,2876.77,IT,Office supplies
+29-05-2025,16:25:32,"Hunter, Garcia and Acevedo",INV-115,1674.86,HR,Software purchase
+21-06-2025,18:41:43,Hobbs Inc,INV-110,2797.21,Finance, 
+29-06-2025,1:53:53,Murray Inc,INV-140,2858.25,HR,
+26-06-2025,19:40:45,"Jefferson, Gallagher and Tucker",INV-162,1584.96,Marketing,
+26-04-2025,16:47:10,"Velazquez, Santos and Davenport",INV-158,1558.77,Marketing,Office supplies
+24-06-2025,16:09:10,Lucas-Smith,INV-190,2134.62,HR, 
+12-06-2025,1:50:29,Hobbs Inc,INV-102,4726.77,IT,Utility bill
+11-05-2025,17:43:44,"Young, Murphy and Melton",INV-129,2065.56,IT,
+14-05-2025,16:52:05,Murray Inc,INV-142,100000,HR,License renewal
+12-05-2025,7:19:39,"Hunter, Garcia and Acevedo",INV-142,2542.5,Finance, 
+05-05-2025,8:35:33,Marks Ltd,INV-161,2188.6,Marketing,Training
+18-05-2025,5:11:14,"Mendoza, Aguirre and Reed",INV-160,404.29,IT,Office supplies
+26-06-2025,23:46:17,Gonzalez-Santiago,INV-121,3033.42,Marketing,Travel expenses
+13-05-2025,22:01:30,Smith-Lyons,INV-153,1438.95,IT,Consulting fee
+11-06-2025,14:53:59,"Jefferson, Gallagher and Tucker",INV-182,4682.09,Finance,License renewal
+13-06-2025,16:19:48,"Walters, Newton and Patterson",INV-187,1285.91,Finance, 
+16-05-2025,17:34:34,"Velazquez, Santos and Davenport",INV-172,3416.1,HR,
+18-06-2025,17:20:30,Gonzalez-Santiago,INV-148,3626.48,Operations,License renewal
+07-06-2025,17:02:40,Marks Ltd,INV-180,3692.14,HR,License renewal
+05-04-2025,17:20:37,"Salinas, Aguirre and Wilson",INV-105,6047.68,IT,
+13-04-2025,6:52:32,"Young, Murphy and Melton",INV-166,3249.56,Operations,Office supplies
+11-05-2025,2:13:16,White Inc,INV-180,566.13,Marketing,Training
+29-05-2025,15:29:12,Gonzalez-Santiago,INV-196,3500.44,Marketing,Equipment
+08-06-2025,12:40:45,"Moss, Hale and Cardenas",INV-111,3052.38,Finance,Maintenance
+21-04-2025,5:49:44,"Russo, Fitzgerald and Guzman",INV-145,5849.67,Marketing,Utility bill
+08-05-2025,2:17:37,"Friedman, Adkins and Lee",INV-103,1579.84,Marketing,Travel expenses
+15-05-2025,20:10:03,"Salinas, Aguirre and Wilson",INV-126,498.42,Marketing,Training
+20-04-2025,18:43:53,"Mendoza, Aguirre and Reed",INV-110,2466.09,Marketing, 
+18-04-2025,13:00:52,"Salinas, Aguirre and Wilson",INV-121,2195.94,Operations,Consulting fee
+29-04-2025,4:08:21,Murray Inc,INV-123,1483.15,Finance, 
+24-06-2025,21:31:21,"Young, Murphy and Melton",INV-192,4010.09,Finance,Consulting fee
+05-06-2025,0:39:41,"Mendoza, Aguirre and Reed",INV-187,3527.38,IT,Software purchase
+08-04-2025,16:24:16,Young Inc,INV-163,1989.96,Operations, 
+19-05-2025,16:22:28,"Jefferson, Gallagher and Tucker",INV-180,2958.54,HR, 
+31-05-2025,13:58:26,Lucas-Smith,INV-128,3604.02,Operations,
+20-05-2025,20:45:22,"Moss, Hale and Cardenas",INV-136,4612.16,IT,Office supplies
+18-05-2025,2:42:46,"Mendoza, Aguirre and Reed",INV-171,3656.46,Marketing,Software purchase
+07-06-2025,7:14:18,Combs-Fitzpatrick,INV-180,7000,Finance,Office supplies
+23-04-2025,19:41:36,"Velazquez, Santos and Davenport",INV-104,2837.6,HR,Training
+15-04-2025,8:31:38,White Inc,INV-192,4166.49,Marketing,Consulting fee
+01-06-2025,13:37:02,"Moss, Hale and Cardenas",INV-157,4025.34,Operations,Consulting fee
+16-06-2025,7:57:19,"Friedman, Adkins and Lee",INV-129,4000,Finance,Consulting fee
+15-04-2025,23:14:49,Murray Inc,INV-195,4345.76,HR,Equipment
+17-05-2025,6:52:28,"Velazquez, Santos and Davenport",INV-101,3897.97,Finance,License renewal
+30-06-2025,11:27:49,Marks Ltd,INV-142,4390.52,Operations,Travel expenses
+07-04-2025,21:36:54,Smith-Lyons,INV-107,4867.81,IT,Office supplies
+31-05-2025,0:32:47,"Walters, Newton and Patterson",INV-198,1856.77,Finance,Travel expenses
+11-04-2025,17:51:08,"Velazquez, Santos and Davenport",INV-168,4712.95,Operations,Office supplies
+31-05-2025,9:41:12,Combs-Fitzpatrick,INV-109,2764.38,HR,Office supplies
+01-05-2025,13:04:28,Combs-Fitzpatrick,INV-101,476.4,IT,Consulting fee
+12-06-2025,21:06:33,"Hunter, Garcia and Acevedo",INV-125,1716.06,Operations,Utility bill
+03-06-2025,1:42:59,"Friedman, Adkins and Lee",INV-106,5489.96,Finance,Consulting fee
+30-06-2025,5:49:57,Hobbs Inc,INV-172,4550.81,Operations, 
+08-04-2025,11:26:34,Marks Ltd,INV-147,4240.61,IT,Software purchase
+24-06-2025,4:20:21,"Walters, Newton and Patterson",INV-143,3758.99,Finance,Utility bill
+26-04-2025,8:12:20,"Velazquez, Santos and Davenport",INV-125,3447.87,HR,Utility bill
+19-05-2025,4:27:16,Lucas-Smith,INV-124,3222.45,Operations,License renewal
+10-04-2025,3:15:07,Lucas-Smith,INV-113,1009.12,Operations,Training
+21-04-2025,15:29:54,"Velazquez, Santos and Davenport",INV-153,3791.76,IT,Maintenance
+22-06-2025,23:01:22,Marks Ltd,INV-191,5197.53,IT, 
+10-05-2025,22:30:49,"Young, Murphy and Melton",INV-179,2566.68,IT,Consulting fee
+03-05-2025,7:33:32,Lucas-Smith,INV-164,4124.08,Finance, 
+31-05-2025,9:18:06,"Jefferson, Gallagher and Tucker",INV-146,8316.66,Operations,Equipment
+15-05-2025,1:11:16,Hobbs Inc,INV-100,3953.17,HR,Consulting fee
+23-04-2025,18:00:33,"Young, Murphy and Melton",INV-170,2429.97,Marketing,Training
+14-04-2025,20:27:28,Lucas-Smith,INV-156,7095.61,Finance,Utility bill
+08-04-2025,17:38:07,Young Inc,INV-165,3342.94,Finance,Office supplies
+01-07-2025,14:48:27,"Jefferson, Gallagher and Tucker",INV-171,4729.69,Marketing, 
+12-04-2025,5:21:24,"Hunter, Garcia and Acevedo",INV-163,1480.44,Finance,Training
+08-05-2025,3:57:11,"Jefferson, Gallagher and Tucker",INV-115,3839.85,HR,Equipment
+22-04-2025,18:48:08,"Russo, Fitzgerald and Guzman",INV-113,5000,Finance,
+06-05-2025,9:03:13,Marks Ltd,INV-129,2292.27,IT,Equipment
+20-06-2025,4:10:58,"Salinas, Aguirre and Wilson",INV-127,4163.18,Marketing,Office supplies
+05-06-2025,19:40:43,"Young, Murphy and Melton",INV-174,4456.8,Operations,
+10-06-2025,4:52:28,"Salinas, Aguirre and Wilson",INV-128,2818.46,HR, 
+01-07-2025,2:09:35,"Young, Murphy and Melton",INV-136,4566.29,Finance, 
+08-05-2025,15:37:19,"Russo, Fitzgerald and Guzman",INV-194,1037.34,Operations, 
+28-06-2025,23:18:20,Dunn-Harris,INV-195,5427.9,HR,
+24-05-2025,21:53:40,"Jefferson, Gallagher and Tucker",INV-136,5214.78,HR,Travel expenses
+29-06-2025,10:26:47,Smith-Lyons,INV-124,4143.64,Marketing,Training
+03-06-2025,2:20:26,"Walters, Newton and Patterson",INV-156,75000,Operations,Travel expenses
+24-05-2025,23:50:07,"Hunter, Garcia and Acevedo",INV-158,4624.12,IT,Travel expenses
+19-04-2025,5:39:00,Lucas-Smith,INV-170,2539.99,Operations,Maintenance
+21-04-2025,18:47:37,Young Inc,INV-118,1271.79,Marketing,Consulting fee
+17-06-2025,22:23:37,Lucas-Smith,INV-138,3102.41,IT, 
+20-05-2025,6:26:33,Combs-Fitzpatrick,INV-179,2642.93,HR,Travel expenses
+27-05-2025,20:53:24,"Friedman, Adkins and Lee",INV-187,5573.86,Marketing,Consulting fee
+05-05-2025,7:20:23,"Velazquez, Santos and Davenport",INV-132,875.68,Operations,Office supplies
+05-05-2025,23:53:53,Marks Ltd,INV-144,2723.34,IT,Travel expenses
+21-05-2025,14:24:01,"Velazquez, Santos and Davenport",INV-111,2143.04,HR,License renewal
+04-04-2025,9:38:50,"Russo, Fitzgerald and Guzman",INV-109,3813.32,HR,Software purchase
+02-05-2025,16:28:23,Dunn-Harris,INV-147,2181.86,Operations,Consulting fee
+19-04-2025,12:18:51,Gonzalez-Santiago,INV-121,2568.12,HR,License renewal
+06-05-2025,4:19:16,"Moss, Hale and Cardenas",INV-127,2591.29,Finance,Training
+05-06-2025,22:24:48,White Inc,INV-186,3353.57,Marketing,License renewal
+10-05-2025,17:13:53,Hobbs Inc,INV-148,3099.78,Marketing,Office supplies
+28-06-2025,6:22:04,Smith-Lyons,INV-100,871.57,HR,Maintenance
+03-05-2025,11:00:32,"Walters, Newton and Patterson",INV-159,4210.36,Marketing,
+12-06-2025,4:54:00,"Hunter, Garcia and Acevedo",INV-137,4669.24,Operations,Software purchase
+06-06-2025,2:24:55,Dunn-Harris,INV-127,1662.82,Operations,Software purchase
+03-05-2025,19:47:44,Hobbs Inc,INV-186,3718.14,Marketing,Office supplies
+22-04-2025,22:36:47,"Moss, Hale and Cardenas",INV-126,3153.96,HR,Software purchase
+26-06-2025,20:37:19,"Velazquez, Santos and Davenport",INV-187,1461.92,IT,Consulting fee
+09-06-2025,1:01:54,"Moss, Hale and Cardenas",INV-195,3901.06,IT,Maintenance
+14-06-2025,4:22:32,"Jefferson, Gallagher and Tucker",INV-177,4454.1,HR,Office supplies
+20-04-2025,7:00:42,Young Inc,INV-124,1783.6,Operations,Office supplies
+19-04-2025,1:14:41,"Jefferson, Gallagher and Tucker",INV-116,859.63,Operations, 
+16-06-2025,8:34:12,Smith-Lyons,INV-134,2222.14,IT,Training
+25-05-2025,15:20:49,Gonzalez-Santiago,INV-101,3000,HR,Office supplies
+18-06-2025,4:33:27,Dunn-Harris,INV-177,3085.67,HR,Software purchase
+06-06-2025,17:32:03,"Mendoza, Aguirre and Reed",INV-114,2180.46,Operations,Consulting fee
+31-05-2025,2:16:19,Young Inc,INV-164,50000,Finance,Travel expenses
+29-04-2025,22:27:42,"Friedman, Adkins and Lee",INV-162,1287.44,Finance,Travel expenses
+20-05-2025,1:06:50,Young Inc,INV-123,2855.95,Marketing,Training
+01-06-2025,6:07:36,"Mendoza, Aguirre and Reed",INV-169,3370.61,HR,Training
+12-05-2025,16:48:57,"Jefferson, Gallagher and Tucker",INV-166,2798.4,Operations, 
+08-05-2025,17:01:12,Dunn-Harris,INV-163,1575.01,HR,Maintenance
+16-06-2025,22:24:01,"Hunter, Garcia and Acevedo",INV-178,1727.27,Marketing,Training
+13-05-2025,0:47:33,"Salinas, Aguirre and Wilson",INV-195,3897.7,Finance,Office supplies
+27-06-2025,8:07:48,"Jefferson, Gallagher and Tucker",INV-186,4287.79,IT,Maintenance
+08-05-2025,10:52:21,"Young, Murphy and Melton",INV-169,4423.96,Operations, 
+23-04-2025,2:21:28,"Velazquez, Santos and Davenport",INV-111,5439.74,HR, 
+11-06-2025,15:17:50,White Inc,INV-140,4093.36,HR,License renewal
+28-06-2025,16:28:08,Combs-Fitzpatrick,INV-147,1039.52,HR,Office supplies
+22-04-2025,21:43:37,Combs-Fitzpatrick,INV-133,10000,HR,Training
+01-07-2025,8:45:51,Combs-Fitzpatrick,INV-199,1844.93,Finance,License renewal
+30-06-2025,12:38:29,"Hunter, Garcia and Acevedo",INV-110,3756.49,Marketing, 
+01-07-2025,20:42:55,"Friedman, Adkins and Lee",INV-192,4200.35,Marketing,Utility bill
+14-04-2025,11:16:34,Dunn-Harris,INV-193,2587.73,Marketing,License renewal
+25-05-2025,2:08:28,"Moss, Hale and Cardenas",INV-124,4397.74,Finance,Utility bill
+17-06-2025,1:58:31,"Young, Murphy and Melton",INV-116,2414.8,Operations,
+26-06-2025,8:49:07,"Walters, Newton and Patterson",INV-125,4181.48,Finance,Training
+29-05-2025,18:38:24,"Friedman, Adkins and Lee",INV-169,162.8,HR,Utility bill
+09-06-2025,19:44:03,Lucas-Smith,INV-107,75000,Finance,Utility bill
+15-06-2025,0:26:05,"Velazquez, Santos and Davenport",INV-138,4879.4,Finance,Travel expenses
+14-04-2025,3:11:51,Lucas-Smith,INV-135,4284.39,HR,Software purchase
+12-04-2025,18:28:22,Young Inc,INV-140,2982.04,Operations,Maintenance
+08-05-2025,4:04:41,"Salinas, Aguirre and Wilson",INV-164,100000,Marketing,Travel expenses
+04-05-2025,16:03:43,Marks Ltd,INV-174,2583.42,HR,Equipment
+15-06-2025,3:09:47,"Moss, Hale and Cardenas",INV-172,5481.03,Marketing,Software purchase
+03-04-2025,19:17:51,White Inc,INV-115,5484.32,Operations,
+02-05-2025,10:13:22,"Russo, Fitzgerald and Guzman",INV-121,2530.49,IT,Training
+01-06-2025,7:32:52,"Velazquez, Santos and Davenport",INV-174,2560.43,Marketing,Equipment
+07-06-2025,0:28:27,Lucas-Smith,INV-159,4256.42,Marketing,License renewal
+08-04-2025,4:56:14,Gonzalez-Santiago,INV-182,3288.86,Operations,Office supplies
+07-06-2025,19:19:47,Smith-Lyons,INV-101,3856.06,Finance,Equipment
+21-06-2025,8:41:22,Murray Inc,INV-175,2314.98,Finance,License renewal
+01-06-2025,19:22:16,Smith-Lyons,INV-183,2420.85,Finance,Consulting fee
+25-05-2025,23:48:14,"Friedman, Adkins and Lee",INV-118,190.63,Operations,License renewal
+02-06-2025,4:02:33,Gonzalez-Santiago,INV-191,2757.7,Operations,Equipment
+03-04-2025,9:18:54,Combs-Fitzpatrick,INV-165,4282.36,Marketing,Training
+13-06-2025,7:11:11,Gonzalez-Santiago,INV-155,2463.97,HR,Consulting fee
+04-05-2025,21:13:59,Murray Inc,INV-173,4000,HR,Utility bill
+11-05-2025,14:55:42,"Friedman, Adkins and Lee",INV-195,4672.81,IT,Equipment
+30-05-2025,23:52:43,Hobbs Inc,INV-138,5352.88,Finance,Training
+23-05-2025,8:43:06,Combs-Fitzpatrick,INV-110,4950.86,Finance,Software purchase
+17-04-2025,13:34:32,"Walters, Newton and Patterson",INV-124,75000,IT,Travel expenses
+20-04-2025,18:05:44,Murray Inc,INV-134,2051.76,HR,Training
+08-05-2025,17:34:21,"Russo, Fitzgerald and Guzman",INV-165,262.58,Operations,Maintenance
+08-06-2025,16:23:56,"Velazquez, Santos and Davenport",INV-185,3759.24,HR,
+12-04-2025,8:28:24,"Moss, Hale and Cardenas",INV-177,2426.67,Marketing, 
+16-05-2025,7:43:44,Combs-Fitzpatrick,INV-112,4933.25,IT,License renewal
+16-04-2025,19:34:26,"Salinas, Aguirre and Wilson",INV-110,562.67,IT,Equipment
+12-04-2025,17:31:15,"Velazquez, Santos and Davenport",INV-149,3940.64,Finance,Software purchase
+29-04-2025,5:08:08,Murray Inc,INV-180,2000,IT,Software purchase
+03-05-2025,7:07:49,Marks Ltd,INV-154,3465.03,Operations,Travel expenses
+08-05-2025,1:04:38,Lucas-Smith,INV-141,3527.87,HR,Training
+01-05-2025,13:53:07,"Moss, Hale and Cardenas",INV-115,5570.69,HR,Maintenance
+20-05-2025,3:55:14,Marks Ltd,INV-121,3170.68,Finance,License renewal
+04-06-2025,6:53:17,"Mendoza, Aguirre and Reed",INV-125,5096.96,HR,Software purchase
+19-05-2025,6:55:02,"Young, Murphy and Melton",INV-138,2245.28,Marketing,Software purchase
+20-06-2025,11:43:45,Murray Inc,INV-200,2249.48,HR, 
+21-06-2025,9:41:14,Dunn-Harris,INV-128,102.73,HR,Equipment
+30-06-2025,8:07:16,Smith-Lyons,INV-187,4189.59,Finance,License renewal
+10-06-2025,14:09:10,"Russo, Fitzgerald and Guzman",INV-196,2689.63,IT,Equipment
+19-04-2025,9:33:57,"Jefferson, Gallagher and Tucker",INV-139,5352.05,Finance,License renewal
+14-05-2025,22:44:08,Young Inc,INV-175,1358,Finance,Equipment
+21-04-2025,21:53:26,"Hunter, Garcia and Acevedo",INV-143,725.07,Operations, 
+16-04-2025,10:51:28,Murray Inc,INV-161,1614.36,HR,Travel expenses
+05-05-2025,21:09:16,Marks Ltd,INV-172,100000,Marketing, 
+13-05-2025,22:50:36,White Inc,INV-132,3613.36,Marketing,Consulting fee
+06-04-2025,15:16:44,"Mendoza, Aguirre and Reed",INV-105,576.73,HR,Office supplies
+23-05-2025,13:54:21,Murray Inc,INV-191,75000,Finance,Consulting fee
+10-06-2025,16:14:49,"Mendoza, Aguirre and Reed",INV-176,2508.01,HR,Training
+07-05-2025,15:09:48,Smith-Lyons,INV-103,3001.52,Marketing,Equipment
+12-06-2025,11:47:24,"Russo, Fitzgerald and Guzman",INV-173,3113.58,Finance,Training
+15-04-2025,10:56:05,"Hunter, Garcia and Acevedo",INV-104,1737.21,Marketing,
+19-06-2025,7:12:59,Murray Inc,INV-118,2609.73,IT,License renewal
+27-04-2025,1:43:49,"Mendoza, Aguirre and Reed",INV-145,4390.78,Finance,Equipment
+01-05-2025,19:06:46,"Jefferson, Gallagher and Tucker",INV-125,2228,Operations,Training
+14-06-2025,9:02:35,Young Inc,INV-183,1370.67,Marketing,Utility bill
+07-06-2025,16:43:15,Combs-Fitzpatrick,INV-148,3607.96,Finance,Maintenance
+07-06-2025,18:45:56,"Friedman, Adkins and Lee",INV-164,2424.51,Operations,Equipment
+20-06-2025,8:01:38,Lucas-Smith,INV-147,2255.54,Finance,Training
+19-05-2025,12:47:11,"Jefferson, Gallagher and Tucker",INV-189,2500.88,Finance,Office supplies
+01-06-2025,17:36:10,Combs-Fitzpatrick,INV-139,5004.21,Operations,Software purchase
+25-05-2025,8:29:47,"Young, Murphy and Melton",INV-110,3154.19,HR,License renewal
+13-06-2025,6:29:06,"Salinas, Aguirre and Wilson",INV-156,1767.64,Operations,Equipment
+03-05-2025,6:44:17,Murray Inc,INV-126,4496.74,Finance,Travel expenses
+20-06-2025,2:03:37,Marks Ltd,INV-155,3357.44,Marketing,Maintenance
+20-04-2025,7:58:46,Gonzalez-Santiago,INV-190,75000,Operations,Equipment
+18-05-2025,4:48:49,"Russo, Fitzgerald and Guzman",INV-144,1703.14,IT,Maintenance
+13-06-2025,9:02:28,Combs-Fitzpatrick,INV-196,1273.85,Operations,
+15-06-2025,20:49:21,"Friedman, Adkins and Lee",INV-122,3040.59,Finance,Software purchase
+06-06-2025,10:25:50,"Friedman, Adkins and Lee",INV-194,3919.24,Operations, 
+02-05-2025,16:20:23,Hobbs Inc,INV-112,2153.92,Operations,Consulting fee
+07-06-2025,22:23:13,Murray Inc,INV-146,2185.54,Operations,License renewal
+26-05-2025,13:44:02,White Inc,INV-123,2997.01,Operations,Office supplies
+19-06-2025,0:49:53,Gonzalez-Santiago,INV-123,2725.52,IT, 
+29-06-2025,10:34:19,"Russo, Fitzgerald and Guzman",INV-140,3841.21,Operations,
+12-06-2025,5:54:13,"Walters, Newton and Patterson",INV-150,2915.16,Finance,License renewal
+17-06-2025,22:57:43,White Inc,INV-127,5256.44,Marketing,Utility bill
+20-04-2025,8:48:12,"Velazquez, Santos and Davenport",INV-160,3040.9,IT,Maintenance
+21-06-2025,3:15:49,Combs-Fitzpatrick,INV-153,5913.92,Finance,
+23-06-2025,1:17:25,"Russo, Fitzgerald and Guzman",INV-156,2017.81,Operations,Maintenance
+21-04-2025,7:40:21,Combs-Fitzpatrick,INV-135,3233.26,Marketing,Travel expenses
+10-05-2025,20:44:50,"Hunter, Garcia and Acevedo",INV-117,1314.18,Marketing,Utility bill
+26-05-2025,7:20:51,"Young, Murphy and Melton",INV-177,3537.28,IT,Maintenance
+05-04-2025,15:52:02,"Jefferson, Gallagher and Tucker",INV-180,5890.6,IT,Utility bill
+15-04-2025,11:27:32,"Hunter, Garcia and Acevedo",INV-114,3000,IT,Equipment
+10-04-2025,23:10:32,"Russo, Fitzgerald and Guzman",INV-139,3989.22,HR,Consulting fee
+11-05-2025,7:08:04,"Friedman, Adkins and Lee",INV-188,3433.81,Finance,Office supplies
+15-06-2025,2:34:14,Smith-Lyons,INV-164,3746.1,Finance,Travel expenses
+17-05-2025,13:42:39,"Hunter, Garcia and Acevedo",INV-192,2595.64,HR,Maintenance
+15-04-2025,4:12:47,"Velazquez, Santos and Davenport",INV-190,894.39,IT,Consulting fee
+05-05-2025,5:32:48,"Jefferson, Gallagher and Tucker",INV-170,75000,IT,Training
+25-06-2025,10:20:41,"Friedman, Adkins and Lee",INV-144,4514.84,IT,Software purchase
+16-06-2025,22:45:48,"Jefferson, Gallagher and Tucker",INV-133,3378.41,Marketing,
+10-06-2025,0:50:49,Young Inc,INV-101,3267.35,HR,Travel expenses
+24-06-2025,23:00:57,"Jefferson, Gallagher and Tucker",INV-187,3948.73,Operations,Office supplies
+06-04-2025,15:09:42,"Mendoza, Aguirre and Reed",INV-185,1668.38,Finance,Software purchase
+10-06-2025,10:28:36,Murray Inc,INV-173,2685.7,HR,Utility bill
+12-04-2025,14:19:13,"Salinas, Aguirre and Wilson",INV-132,2000,Finance,Travel expenses
+25-04-2025,13:39:41,"Mendoza, Aguirre and Reed",INV-176,3046.7,Finance,Consulting fee
+26-05-2025,19:12:08,"Walters, Newton and Patterson",INV-183,2828.17,Finance,Software purchase
+01-06-2025,18:00:41,"Hunter, Garcia and Acevedo",INV-192,100000,Operations,Office supplies
+08-05-2025,6:06:36,"Velazquez, Santos and Davenport",INV-187,4805.74,HR,Equipment
+09-05-2025,14:51:28,"Friedman, Adkins and Lee",INV-131,1825.23,Marketing,Utility bill
+11-04-2025,17:26:00,Hobbs Inc,INV-174,3000,HR,Equipment
+09-06-2025,2:46:37,Dunn-Harris,INV-155,3891.16,IT,Training
+24-06-2025,1:40:49,"Moss, Hale and Cardenas",INV-106,3040.57,Marketing,Equipment
+18-04-2025,8:42:20,Young Inc,INV-121,2613.39,Finance,License renewal
+08-04-2025,17:40:32,"Young, Murphy and Melton",INV-185,2584.6,Operations,Office supplies
+01-05-2025,10:29:20,"Jefferson, Gallagher and Tucker",INV-129,2956.2,Finance,Software purchase
+14-06-2025,20:43:43,Smith-Lyons,INV-157,2109.2,Finance,Consulting fee
+23-04-2025,3:26:52,"Hunter, Garcia and Acevedo",INV-169,2761.53,Marketing,Utility bill
+06-06-2025,20:44:08,"Hunter, Garcia and Acevedo",INV-144,3815.49,IT,Utility bill
+29-05-2025,10:39:08,"Walters, Newton and Patterson",INV-131,2378.33,HR,Training
+25-06-2025,0:44:15,"Jefferson, Gallagher and Tucker",INV-115,3997.16,IT,Software purchase
+06-04-2025,12:12:43,"Hunter, Garcia and Acevedo",INV-159,3043.55,Marketing,Utility bill
+02-06-2025,12:34:39,"Young, Murphy and Melton",INV-177,3753.27,Marketing,Travel expenses
+13-06-2025,19:02:09,"Hunter, Garcia and Acevedo",INV-144,5037.93,IT,Travel expenses
+18-04-2025,3:08:22,"Jefferson, Gallagher and Tucker",INV-186,2589.15,Operations,
+25-04-2025,0:14:53,"Friedman, Adkins and Lee",INV-117,5716.95,HR,Office supplies
+20-04-2025,1:18:51,Young Inc,INV-163,3687.2,Operations,Maintenance
+05-05-2025,16:47:19,Gonzalez-Santiago,INV-138,2545.3,Marketing,Maintenance
+01-06-2025,4:04:40,"Russo, Fitzgerald and Guzman",INV-105,1953.43,Operations,Training
+09-06-2025,9:26:34,White Inc,INV-157,1879.07,Marketing,Software purchase
+09-04-2025,1:09:13,"Salinas, Aguirre and Wilson",INV-189,4000,IT,
+21-05-2025,17:45:44,White Inc,INV-178,3935.02,Marketing,Consulting fee
+25-06-2025,0:13:39,Dunn-Harris,INV-112,50000,Operations,Office supplies
+07-05-2025,10:12:10,"Moss, Hale and Cardenas",INV-150,2385.39,Operations, 
+26-04-2025,1:10:59,Gonzalez-Santiago,INV-113,3899.18,Marketing,Maintenance
+15-06-2025,9:02:19,White Inc,INV-167,5200.03,Operations,Software purchase
+27-06-2025,12:50:15,Smith-Lyons,INV-199,100000,Operations, 
+28-06-2025,17:24:31,Dunn-Harris,INV-125,3.08,Finance,Maintenance
+27-05-2025,18:00:30,"Moss, Hale and Cardenas",INV-181,2630.89,Operations,Travel expenses
+15-05-2025,4:52:56,"Young, Murphy and Melton",INV-145,2834.93,Operations,Office supplies
+15-04-2025,11:02:24,"Walters, Newton and Patterson",INV-164,2772.72,Operations, 
+15-05-2025,6:26:44,"Friedman, Adkins and Lee",INV-170,3868.59,Finance,Software purchase
+21-06-2025,12:58:31,"Mendoza, Aguirre and Reed",INV-179,3003.7,Marketing,Equipment
+14-06-2025,20:25:13,"Friedman, Adkins and Lee",INV-196,1329.93,Operations,Software purchase
+04-06-2025,1:34:26,"Young, Murphy and Melton",INV-118,5608.66,Finance,Training
+12-06-2025,16:33:24,"Moss, Hale and Cardenas",INV-126,3262.28,Operations,Equipment
+19-06-2025,16:04:38,Combs-Fitzpatrick,INV-128,3131.79,Marketing,Training
+15-06-2025,6:04:44,"Friedman, Adkins and Lee",INV-146,3436.3,Operations,Office supplies
+29-04-2025,16:48:06,Marks Ltd,INV-130,1636.29,Operations,Utility bill
+10-04-2025,17:06:33,"Mendoza, Aguirre and Reed",INV-197,50000,Marketing, 
+05-06-2025,4:45:10,Lucas-Smith,INV-192,3800.2,Marketing,
+11-05-2025,6:10:13,Murray Inc,INV-102,3787.25,Operations,Maintenance
+12-06-2025,10:00:20,"Salinas, Aguirre and Wilson",INV-130,3748.3,Marketing,Maintenance
+02-05-2025,14:49:15,"Hunter, Garcia and Acevedo",INV-133,4246.19,IT,Office supplies
+17-04-2025,12:20:38,Dunn-Harris,INV-125,3216.43,IT,License renewal
+16-06-2025,17:07:49,Marks Ltd,INV-127,548.04,Marketing,Maintenance
+03-06-2025,18:10:33,"Mendoza, Aguirre and Reed",INV-166,3072.11,Operations,Consulting fee
+06-06-2025,19:23:40,"Young, Murphy and Melton",INV-109,1750.61,Operations,Training
+06-04-2025,0:51:03,Lucas-Smith,INV-166,3033.47,Operations,Equipment
+17-04-2025,9:42:40,Lucas-Smith,INV-140,2245.47,HR,Consulting fee
+23-05-2025,20:39:57,"Young, Murphy and Melton",INV-184,265.6,HR, 
+21-04-2025,21:03:44,Lucas-Smith,INV-120,4625.5,IT,Software purchase
+29-06-2025,18:53:30,"Russo, Fitzgerald and Guzman",INV-127,4476.47,Operations,Utility bill
+14-05-2025,13:51:07,Murray Inc,INV-149,2434.83,IT,Utility bill
+22-04-2025,6:03:33,Combs-Fitzpatrick,INV-152,2928.5,Marketing,Maintenance
+17-06-2025,15:05:40,"Mendoza, Aguirre and Reed",INV-116,3834.82,HR,Maintenance
+21-05-2025,23:56:50,Young Inc,INV-116,3545.08,IT,Office supplies
+08-04-2025,13:53:42,"Friedman, Adkins and Lee",INV-113,4169.17,Operations,Maintenance
+29-05-2025,7:40:42,"Mendoza, Aguirre and Reed",INV-199,1882.61,HR,Travel expenses
+25-06-2025,8:00:16,Young Inc,INV-187,1234.1,HR,Maintenance
+30-05-2025,4:04:53,Combs-Fitzpatrick,INV-159,2366.72,Operations,Maintenance
+08-05-2025,4:04:54,Marks Ltd,INV-156,2638.12,IT,Utility bill
+08-05-2025,18:26:44,Gonzalez-Santiago,INV-172,3977.08,Operations, 
+23-05-2025,18:34:09,Hobbs Inc,INV-181,984.42,Marketing,Equipment
+17-05-2025,21:14:11,"Velazquez, Santos and Davenport",INV-111,3627.03,IT,
+24-05-2025,1:09:49,"Mendoza, Aguirre and Reed",INV-106,2526.03,Finance,License renewal
+23-04-2025,3:55:11,"Velazquez, Santos and Davenport",INV-142,2613.29,Marketing,
+04-05-2025,3:26:33,"Russo, Fitzgerald and Guzman",INV-103,2559.59,Finance,Travel expenses
+05-06-2025,6:21:30,Smith-Lyons,INV-163,2829.36,Marketing,License renewal
+02-06-2025,0:21:06,"Walters, Newton and Patterson",INV-100,1886.57,IT,Utility bill
+26-05-2025,0:40:18,Smith-Lyons,INV-168,3392.64,HR,Office supplies
+29-05-2025,11:10:59,Murray Inc,INV-134,1723.45,Operations,Office supplies
+29-04-2025,2:16:15,Combs-Fitzpatrick,INV-173,5384.14,HR,Equipment
+07-05-2025,6:44:46,Young Inc,INV-100,1993.86,IT,Maintenance
+04-06-2025,1:19:01,White Inc,INV-140,1404.56,IT,Office supplies
+22-04-2025,1:21:12,White Inc,INV-128,3703.97,Marketing,License renewal
+08-04-2025,10:27:27,"Russo, Fitzgerald and Guzman",INV-132,2697.06,Operations,Consulting fee
+06-05-2025,0:14:36,"Jefferson, Gallagher and Tucker",INV-139,2371.18,IT,Travel expenses
+17-04-2025,1:33:55,Gonzalez-Santiago,INV-122,50000,HR,Equipment
+17-04-2025,6:12:12,"Young, Murphy and Melton",INV-182,1480.53,Marketing,Utility bill
+30-04-2025,16:47:26,"Russo, Fitzgerald and Guzman",INV-197,594.24,Marketing,Maintenance
+05-05-2025,0:21:20,"Walters, Newton and Patterson",INV-143,1693.91,Marketing,Travel expenses
+14-05-2025,18:35:51,"Walters, Newton and Patterson",INV-113,5342.97,IT,License renewal
+11-04-2025,2:29:05,Smith-Lyons,INV-189,6857.99,IT,Training
+24-05-2025,5:59:36,"Young, Murphy and Melton",INV-184,4426.71,Operations,Equipment
+25-04-2025,10:25:20,White Inc,INV-169,4268.41,Finance,Travel expenses
+28-05-2025,16:45:11,"Young, Murphy and Melton",INV-193,5078.89,Operations,Office supplies
+22-06-2025,0:30:45,Dunn-Harris,INV-136,3140.04,Operations,Travel expenses
+01-07-2025,3:38:51,Lucas-Smith,INV-159,3247.89,HR, 
+21-04-2025,11:28:37,Lucas-Smith,INV-149,3221.49,Marketing,
+06-05-2025,18:39:26,Gonzalez-Santiago,INV-137,3167.97,Operations,Maintenance
+22-06-2025,8:43:02,"Jefferson, Gallagher and Tucker",INV-116,1635.01,Marketing, 
+08-04-2025,2:59:02,"Young, Murphy and Melton",INV-152,178.07,Finance,License renewal
+11-06-2025,9:27:52,Hobbs Inc,INV-149,5981.24,Marketing,
+25-05-2025,10:15:01,"Velazquez, Santos and Davenport",INV-107,4336.89,Operations,Utility bill
+11-06-2025,18:54:20,Combs-Fitzpatrick,INV-177,2394.02,Marketing,Travel expenses
+10-04-2025,15:36:26,"Young, Murphy and Melton",INV-140,1703.1,HR,Equipment
+14-04-2025,9:03:09,Combs-Fitzpatrick,INV-198,5118.15,HR,Training
+29-04-2025,15:47:27,Young Inc,INV-199,3991.87,Marketing,Software purchase
+20-04-2025,20:17:07,Combs-Fitzpatrick,INV-188,2579.3,HR,Training
+15-06-2025,19:34:18,"Moss, Hale and Cardenas",INV-169,2849.49,Marketing,Training
+17-06-2025,11:48:42,"Friedman, Adkins and Lee",INV-122,3757.21,Marketing,
+16-06-2025,14:58:59,Smith-Lyons,INV-189,3148.99,Marketing,License renewal
+25-05-2025,11:03:39,Hobbs Inc,INV-195,2665.78,Marketing,Travel expenses
+28-04-2025,21:41:39,"Jefferson, Gallagher and Tucker",INV-194,1953.16,HR,Software purchase
+07-04-2025,17:03:49,White Inc,INV-150,2784.94,IT,Travel expenses
+22-05-2025,7:55:57,"Jefferson, Gallagher and Tucker",INV-142,3585.93,Marketing,Training
+03-06-2025,4:22:36,Dunn-Harris,INV-116,2682.08,HR,Maintenance
+10-05-2025,15:12:58,Dunn-Harris,INV-152,2414.03,Finance,Consulting fee
+17-05-2025,12:42:10,Murray Inc,INV-144,4686.58,HR,License renewal
+26-06-2025,4:22:40,"Moss, Hale and Cardenas",INV-200,4207.23,HR,Maintenance
+25-05-2025,5:29:34,Young Inc,INV-176,2146.9,IT,Software purchase
+21-04-2025,18:11:19,Murray Inc,INV-130,5655.41,Finance,Travel expenses
+13-06-2025,13:37:14,"Russo, Fitzgerald and Guzman",INV-104,1788.72,IT,Travel expenses
+20-06-2025,2:48:40,Hobbs Inc,INV-131,100000,Finance,Equipment
+10-06-2025,13:19:49,"Young, Murphy and Melton",INV-116,3337.72,Finance,Consulting fee
+20-05-2025,2:21:21,"Young, Murphy and Melton",INV-163,332.11,Operations,Training
+11-05-2025,10:08:15,"Moss, Hale and Cardenas",INV-164,1681.63,IT,Utility bill
+27-05-2025,1:28:32,Hobbs Inc,INV-187,3502.28,HR,Travel expenses
+27-05-2025,6:45:51,Dunn-Harris,INV-138,34.23,Marketing,Software purchase
+18-05-2025,9:17:26,"Young, Murphy and Melton",INV-103,2136.89,Marketing,Travel expenses
+29-05-2025,6:43:07,"Moss, Hale and Cardenas",INV-155,5046.11,IT,Utility bill
+06-04-2025,23:02:34,"Young, Murphy and Melton",INV-166,3665.58,Finance,Equipment
+30-05-2025,15:38:20,Murray Inc,INV-118,2392.76,Operations,Office supplies
+11-04-2025,13:44:23,"Walters, Newton and Patterson",INV-192,4936.54,HR, 
+10-05-2025,23:43:28,Gonzalez-Santiago,INV-135,3155.86,HR,Travel expenses
+22-05-2025,20:46:35,"Mendoza, Aguirre and Reed",INV-109,3069.9,HR,Office supplies
+29-04-2025,18:53:28,"Russo, Fitzgerald and Guzman",INV-121,2514.13,IT, 
+13-05-2025,14:26:16,"Walters, Newton and Patterson",INV-184,362,Finance,
+02-06-2025,21:26:13,Young Inc,INV-158,2545.29,Finance,Maintenance
+26-04-2025,7:48:25,"Jefferson, Gallagher and Tucker",INV-147,5764.09,Operations,Training
+19-06-2025,11:47:39,White Inc,INV-118,110.38,HR,Utility bill
+24-04-2025,21:42:52,White Inc,INV-131,4596.51,IT,Training
+17-06-2025,1:58:22,"Young, Murphy and Melton",INV-134,3026.05,IT,Office supplies
+30-04-2025,2:26:51,Lucas-Smith,INV-104,10000,Finance,Software purchase
+22-06-2025,9:03:16,Gonzalez-Santiago,INV-168,3582.82,Operations,Software purchase
+14-04-2025,11:42:10,"Moss, Hale and Cardenas",INV-131,2810.9,HR,Maintenance
+10-06-2025,2:33:49,White Inc,INV-170,2705.39,HR,Equipment
+20-06-2025,0:14:18,"Moss, Hale and Cardenas",INV-160,2859.26,HR,License renewal
+18-05-2025,5:57:46,"Russo, Fitzgerald and Guzman",INV-127,3385.67,HR,Travel expenses
+24-06-2025,18:44:24,"Russo, Fitzgerald and Guzman",INV-192,936.27,Marketing,Equipment
+07-05-2025,9:30:30,"Salinas, Aguirre and Wilson",INV-122,3535.45,Marketing,License renewal
+06-06-2025,4:25:59,Combs-Fitzpatrick,INV-125,3399.81,HR,License renewal
+02-05-2025,16:19:33,Combs-Fitzpatrick,INV-116,2253.68,IT,Office supplies
+17-06-2025,8:51:23,"Mendoza, Aguirre and Reed",INV-138,2262.82,Marketing,License renewal
+27-04-2025,10:40:13,"Salinas, Aguirre and Wilson",INV-116,75000,HR,Equipment
+16-05-2025,3:03:36,"Hunter, Garcia and Acevedo",INV-105,4867.71,Marketing,Equipment
+07-05-2025,16:05:15,"Young, Murphy and Melton",INV-160,2597.41,IT,Consulting fee
+11-05-2025,2:05:35,Combs-Fitzpatrick,INV-160,4000,HR,Maintenance
+12-04-2025,8:35:43,Young Inc,INV-108,3183.5,Finance,Travel expenses
+13-06-2025,9:10:07,"Walters, Newton and Patterson",INV-134,2160.31,IT,Utility bill
+22-05-2025,19:04:11,"Young, Murphy and Melton",INV-101,3650.18,Finance,Software purchase
+03-06-2025,10:59:46,Gonzalez-Santiago,INV-145,4849.53,Marketing, 
+28-05-2025,7:27:45,"Walters, Newton and Patterson",INV-154,10000,Operations,Travel expenses
+11-04-2025,9:40:09,"Jefferson, Gallagher and Tucker",INV-121,3717.57,Marketing, 
+04-05-2025,11:20:18,"Jefferson, Gallagher and Tucker",INV-111,4230.26,IT, 
+17-04-2025,5:03:49,White Inc,INV-119,3996.41,Operations, 
+27-06-2025,4:01:56,"Friedman, Adkins and Lee",INV-177,1262.37,Finance,Office supplies
+06-04-2025,4:18:16,"Hunter, Garcia and Acevedo",INV-166,2313.6,Marketing,Travel expenses
+25-05-2025,8:37:30,"Friedman, Adkins and Lee",INV-144,2865.07,Finance,Office supplies
+13-05-2025,13:21:44,Smith-Lyons,INV-146,4359.62,Marketing,Utility bill
+02-05-2025,18:47:55,"Velazquez, Santos and Davenport",INV-112,436.59,Finance,Office supplies
+29-04-2025,6:45:02,"Friedman, Adkins and Lee",INV-145,5580.31,Marketing,Software purchase
+30-04-2025,2:31:01,Marks Ltd,INV-161,3903.98,Finance, 
+28-06-2025,19:01:58,Hobbs Inc,INV-107,4646.07,Operations,
+14-04-2025,22:25:32,"Jefferson, Gallagher and Tucker",INV-122,864.9,HR, 
+30-06-2025,15:01:20,"Hunter, Garcia and Acevedo",INV-143,3189.93,Operations,Utility bill
+09-04-2025,13:42:17,Marks Ltd,INV-144,10000,Marketing, 
+05-06-2025,22:24:40,"Velazquez, Santos and Davenport",INV-173,2651.37,HR,Office supplies
+14-05-2025,14:05:30,Gonzalez-Santiago,INV-183,1026.36,Finance, 
+27-06-2025,13:08:58,Murray Inc,INV-163,209.8,Finance,Equipment
+25-04-2025,3:14:23,Marks Ltd,INV-157,1856.16,IT,Training
+18-04-2025,22:04:07,Combs-Fitzpatrick,INV-126,5640.38,Finance,Training
+28-06-2025,13:52:23,"Friedman, Adkins and Lee",INV-192,5975.31,Marketing,Training
+03-05-2025,19:41:10,Hobbs Inc,INV-117,1276.31,Operations,Travel expenses
+25-04-2025,21:13:33,Combs-Fitzpatrick,INV-166,3954.74,Marketing,
+18-06-2025,20:35:40,"Russo, Fitzgerald and Guzman",INV-101,2744.06,Marketing,Utility bill
+30-06-2025,19:10:37,"Velazquez, Santos and Davenport",INV-131,3431.89,Finance,Training
+14-06-2025,4:09:49,White Inc,INV-192,3095.56,HR,Utility bill
+03-05-2025,13:28:15,"Mendoza, Aguirre and Reed",INV-129,1145.97,Operations,
+21-04-2025,17:44:15,Combs-Fitzpatrick,INV-128,3782.09,Marketing,Maintenance
+16-05-2025,9:40:22,Combs-Fitzpatrick,INV-192,1689.38,Finance,Equipment
+26-04-2025,22:39:27,Smith-Lyons,INV-138,75000,Operations,License renewal
+14-05-2025,18:18:44,"Mendoza, Aguirre and Reed",INV-176,1426.38,Operations, 
+08-06-2025,2:03:37,"Salinas, Aguirre and Wilson",INV-148,1548.28,Finance,
+30-04-2025,18:11:25,"Young, Murphy and Melton",INV-194,3907.74,HR, 
+17-06-2025,21:26:28,Hobbs Inc,INV-191,3171.37,Finance,Travel expenses
+09-04-2025,16:37:39,"Salinas, Aguirre and Wilson",INV-160,6275.71,Finance,Utility bill
+14-04-2025,14:50:53,Marks Ltd,INV-104,6710.05,HR, 
+14-04-2025,8:11:14,"Friedman, Adkins and Lee",INV-170,2239.23,Marketing,Equipment
+26-04-2025,15:17:00,"Young, Murphy and Melton",INV-158,2047.42,Operations,Training
+04-06-2025,17:35:03,"Walters, Newton and Patterson",INV-150,4423.95,IT,Training
+26-06-2025,3:14:03,Dunn-Harris,INV-174,5360.42,IT,Travel expenses
+08-04-2025,20:28:18,Murray Inc,INV-100,2769.6,Operations,Equipment
+21-05-2025,7:00:36,Murray Inc,INV-167,2574.3,Marketing,Office supplies
+22-04-2025,10:00:26,"Friedman, Adkins and Lee",INV-108,4468.53,Marketing,Consulting fee
+26-04-2025,1:53:01,"Young, Murphy and Melton",INV-137,3622.96,Operations,
+15-05-2025,18:21:11,"Young, Murphy and Melton",INV-140,988.92,Operations,Equipment
+09-05-2025,15:52:33,"Jefferson, Gallagher and Tucker",INV-176,2706.75,Operations,Office supplies
+05-06-2025,18:27:29,"Hunter, Garcia and Acevedo",INV-186,1978.37,Operations,Equipment
+25-06-2025,20:14:09,"Jefferson, Gallagher and Tucker",INV-193,3977.43,HR,Consulting fee
+05-04-2025,7:36:13,"Mendoza, Aguirre and Reed",INV-161,3601.7,Operations,License renewal
+15-06-2025,2:42:19,"Russo, Fitzgerald and Guzman",INV-198,100000,Finance,Software purchase
+30-04-2025,7:01:58,Young Inc,INV-103,4733.1,Finance,Equipment
+20-06-2025,7:06:45,"Walters, Newton and Patterson",INV-157,1046.73,Operations,Office supplies
+12-05-2025,7:05:36,Lucas-Smith,INV-163,2646.84,Operations,Maintenance
+16-05-2025,7:38:46,Lucas-Smith,INV-112,264.6,HR,Office supplies
+25-05-2025,7:10:04,Marks Ltd,INV-158,1783.88,Operations,Maintenance
+14-04-2025,12:56:57,Hobbs Inc,INV-165,7000,HR,Travel expenses
+05-04-2025,16:03:53,"Jefferson, Gallagher and Tucker",INV-129,50000,Marketing,Maintenance
+13-04-2025,6:06:12,"Young, Murphy and Melton",INV-162,5576.97,Operations,Training
+22-05-2025,8:59:50,"Salinas, Aguirre and Wilson",INV-184,2398.12,Marketing,Equipment
+05-04-2025,17:58:54,Lucas-Smith,INV-181,2845.8,IT,Consulting fee
+24-04-2025,11:46:37,Murray Inc,INV-136,4260.77,Finance,Travel expenses
+29-05-2025,13:11:07,Dunn-Harris,INV-161,2813.89,IT,License renewal
+28-04-2025,23:56:34,"Jefferson, Gallagher and Tucker",INV-130,3210.83,Operations,Office supplies
+24-06-2025,8:10:28,"Mendoza, Aguirre and Reed",INV-117,3335.39,Marketing,
+15-04-2025,14:27:53,Murray Inc,INV-132,1371.18,HR,Travel expenses
+12-04-2025,7:51:26,"Moss, Hale and Cardenas",INV-200,1990.37,IT,Maintenance
+02-05-2025,11:14:53,"Walters, Newton and Patterson",INV-156,75000,HR,License renewal
+10-05-2025,17:14:38,"Jefferson, Gallagher and Tucker",INV-199,2736.64,HR,Software purchase
+08-06-2025,19:37:46,"Mendoza, Aguirre and Reed",INV-189,4714.65,Finance,
+10-06-2025,15:23:16,Dunn-Harris,INV-138,2857.61,Operations,Software purchase
+30-04-2025,4:33:11,Combs-Fitzpatrick,INV-167,2633.26,Marketing,Travel expenses
+01-07-2025,6:54:37,"Walters, Newton and Patterson",INV-100,2679.34,HR,License renewal
+17-06-2025,2:18:58,"Hunter, Garcia and Acevedo",INV-116,2422.29,HR,License renewal
+02-06-2025,7:30:19,Combs-Fitzpatrick,INV-175,4652.99,Marketing,License renewal
+15-06-2025,6:12:35,"Mendoza, Aguirre and Reed",INV-117,1739.64,IT,Office supplies
+07-05-2025,19:19:22,Lucas-Smith,INV-183,2332.05,Marketing,Training
+04-04-2025,10:25:22,"Mendoza, Aguirre and Reed",INV-108,1320.66,HR,Utility bill
+21-04-2025,15:41:39,Murray Inc,INV-198,2726.02,IT,Travel expenses
+11-06-2025,18:15:36,"Russo, Fitzgerald and Guzman",INV-189,2049.39,Finance, 
+03-06-2025,1:24:15,Young Inc,INV-130,3000,Operations,Consulting fee
+27-06-2025,18:05:04,Marks Ltd,INV-159,2250.62,IT,Equipment
+12-05-2025,15:41:03,"Walters, Newton and Patterson",INV-100,1027.9,IT,
+10-06-2025,11:25:07,"Russo, Fitzgerald and Guzman",INV-197,2470.14,Operations,
+24-05-2025,4:33:37,Lucas-Smith,INV-153,4062.06,Finance,Software purchase
+14-04-2025,2:42:53,Young Inc,INV-121,3910.07,Marketing,License renewal
+10-04-2025,3:11:35,"Salinas, Aguirre and Wilson",INV-160,2664.21,Operations,Training
+27-04-2025,8:57:19,"Young, Murphy and Melton",INV-181,1875.78,HR,Office supplies
+12-04-2025,3:32:03,Gonzalez-Santiago,INV-197,1540.35,Finance,Office supplies
+07-04-2025,21:24:40,Young Inc,INV-132,1385.6,Marketing,Maintenance
+15-05-2025,0:12:48,Marks Ltd,INV-159,4482.54,Finance,Maintenance
+12-06-2025,8:27:08,"Jefferson, Gallagher and Tucker",INV-130,4452.65,Marketing,License renewal
+03-04-2025,8:33:44,"Velazquez, Santos and Davenport",INV-141,50000,IT,Travel expenses
+23-04-2025,22:46:36,Murray Inc,INV-104,3608.45,IT,Utility bill
+15-05-2025,23:58:18,Lucas-Smith,INV-175,3624.09,HR,Maintenance
+14-04-2025,11:36:23,"Jefferson, Gallagher and Tucker",INV-181,3489.64,Finance,Travel expenses
+23-05-2025,8:32:56,"Velazquez, Santos and Davenport",INV-150,3572.78,Marketing,Equipment
+05-06-2025,23:35:33,Murray Inc,INV-113,3896.02,HR,
+18-05-2025,23:21:56,Combs-Fitzpatrick,INV-129,3484.16,HR,Equipment
+14-04-2025,13:01:56,Hobbs Inc,INV-125,4367.93,IT,Software purchase
+31-05-2025,7:13:38,"Young, Murphy and Melton",INV-161,3783.59,HR,License renewal
+04-05-2025,22:10:04,Lucas-Smith,INV-137,4981.09,Finance,Consulting fee
+28-06-2025,19:46:38,Dunn-Harris,INV-152,2815.64,Finance,Office supplies
+19-04-2025,4:20:03,Smith-Lyons,INV-176,2065.98,IT,Utility bill
+17-04-2025,16:54:11,"Velazquez, Santos and Davenport",INV-191,3191.13,Operations,Equipment
+20-05-2025,19:53:00,"Hunter, Garcia and Acevedo",INV-114,1090.67,IT,Office supplies
+03-05-2025,17:44:15,Lucas-Smith,INV-177,1838.86,Finance,Utility bill
+17-05-2025,9:29:29,White Inc,INV-178,93.31,IT,License renewal
+30-06-2025,13:03:11,"Jefferson, Gallagher and Tucker",INV-190,1865.91,Operations,Equipment
+02-05-2025,12:34:15,Young Inc,INV-145,2997.36,IT,Travel expenses
+15-04-2025,6:22:18,Marks Ltd,INV-190,3972.06,Operations,Equipment
+27-06-2025,9:29:32,Murray Inc,INV-185,4734.18,Finance,Equipment
+02-06-2025,10:11:18,"Salinas, Aguirre and Wilson",INV-125,1380.93,Operations,Office supplies
+05-05-2025,9:09:32,Combs-Fitzpatrick,INV-199,1169.42,Marketing,Training
+21-05-2025,14:42:03,Dunn-Harris,INV-116,3000,IT,Utility bill
+30-05-2025,20:00:07,"Salinas, Aguirre and Wilson",INV-134,2297.52,Marketing, 
+17-04-2025,1:02:38,"Walters, Newton and Patterson",INV-176,4743.38,HR,Maintenance
+09-04-2025,8:46:17,Murray Inc,INV-132,4184.84,Operations,License renewal
+18-06-2025,12:03:32,Young Inc,INV-179,1699.79,Finance,Consulting fee
+11-05-2025,16:12:59,"Hunter, Garcia and Acevedo",INV-167,3644.62,Finance,Maintenance
+11-05-2025,17:45:51,Murray Inc,INV-173,3103.3,IT, 
+14-05-2025,21:13:53,"Salinas, Aguirre and Wilson",INV-185,2356.92,Marketing,Maintenance
+31-05-2025,17:58:31,Hobbs Inc,INV-156,4900.37,HR,Equipment
+16-05-2025,6:16:30,"Moss, Hale and Cardenas",INV-128,4769.23,Finance,License renewal
+04-06-2025,2:08:46,"Velazquez, Santos and Davenport",INV-155,6404.19,HR,Training
+21-06-2025,12:02:44,"Walters, Newton and Patterson",INV-118,1260.78,IT, 
+16-06-2025,20:21:05,Murray Inc,INV-126,2909.25,Finance,Utility bill
+22-04-2025,21:41:45,"Jefferson, Gallagher and Tucker",INV-146,1063.4,Finance,Office supplies
+29-04-2025,11:02:42,Lucas-Smith,INV-189,2940.09,Operations,License renewal
+27-05-2025,4:11:14,Young Inc,INV-170,586.98,Marketing,Travel expenses
+14-05-2025,19:57:38,Dunn-Harris,INV-148,3206.05,Finance,Training
+26-06-2025,19:25:15,"Velazquez, Santos and Davenport",INV-128,3136.42,Operations,Software purchase
+10-05-2025,6:19:35,"Jefferson, Gallagher and Tucker",INV-115,978.08,Marketing,
+30-06-2025,13:13:35,Marks Ltd,INV-177,2488.06,HR,Travel expenses
+20-04-2025,22:57:31,"Friedman, Adkins and Lee",INV-199,4449.16,IT,License renewal
+28-05-2025,8:49:21,Smith-Lyons,INV-186,3224.64,IT,Travel expenses
+08-04-2025,8:46:43,Marks Ltd,INV-130,3128.86,IT,Equipment
+28-06-2025,6:08:14,"Moss, Hale and Cardenas",INV-103,4177.6,Finance,Software purchase
+27-05-2025,13:17:37,Marks Ltd,INV-192,1929.59,HR, 
+22-04-2025,21:43:27,"Russo, Fitzgerald and Guzman",INV-104,2592.39,Finance,Training
+19-05-2025,10:30:33,Dunn-Harris,INV-130,1999.4,IT,License renewal
+05-06-2025,19:50:55,"Salinas, Aguirre and Wilson",INV-170,3291.25,Operations,Office supplies
+22-05-2025,2:48:30,"Moss, Hale and Cardenas",INV-116,100000,Marketing,Equipment
+26-04-2025,0:45:37,Combs-Fitzpatrick,INV-120,719.23,Marketing,Maintenance
+08-04-2025,17:40:49,"Jefferson, Gallagher and Tucker",INV-123,2936.37,IT,Training
+02-06-2025,11:56:54,Lucas-Smith,INV-113,50000,IT,Consulting fee
+27-05-2025,22:43:53,"Young, Murphy and Melton",INV-139,2552.59,Operations,Software purchase
+17-05-2025,9:00:39,Young Inc,INV-151,1550.61,IT,Equipment
+16-06-2025,14:19:25,"Salinas, Aguirre and Wilson",INV-118,2764.83,Finance,Software purchase
+30-06-2025,18:02:31,Young Inc,INV-194,4556.41,IT,Consulting fee
+26-05-2025,23:26:34,Marks Ltd,INV-112,4234.32,Finance,Travel expenses
+11-05-2025,5:45:01,White Inc,INV-153,2589.79,HR,Equipment
+28-05-2025,21:54:33,Gonzalez-Santiago,INV-103,502.13,IT,Equipment
+19-05-2025,3:28:13,Hobbs Inc,INV-152,4928.56,IT,Utility bill
+19-06-2025,20:54:15,Marks Ltd,INV-187,2081.5,Finance,Utility bill
+23-06-2025,11:31:10,"Friedman, Adkins and Lee",INV-194,3993.34,HR,Equipment
+16-04-2025,4:58:54,Murray Inc,INV-137,3367.62,Finance,License renewal
+17-06-2025,23:52:34,White Inc,INV-141,1220.61,HR,Training
+29-06-2025,15:23:26,Marks Ltd,INV-128,3458.16,HR,Consulting fee
+22-04-2025,1:31:48,"Hunter, Garcia and Acevedo",INV-149,3284.95,IT,Maintenance
+08-05-2025,22:10:34,Combs-Fitzpatrick,INV-198,4743.19,HR,Travel expenses
+16-05-2025,8:00:23,Lucas-Smith,INV-154,4932.09,Finance,Training
+27-04-2025,22:43:04,Murray Inc,INV-179,3100.9,Operations,Maintenance
+17-04-2025,20:57:57,Marks Ltd,INV-101,468.25,Marketing,License renewal
+22-05-2025,6:54:35,Smith-Lyons,INV-147,3539.24,Marketing,
+06-05-2025,4:26:45,Combs-Fitzpatrick,INV-174,6128.09,Marketing,Equipment
+18-05-2025,14:37:55,"Walters, Newton and Patterson",INV-134,1693.52,Finance,Maintenance
+01-05-2025,13:07:05,"Friedman, Adkins and Lee",INV-107,3629.75,Marketing, 
+05-04-2025,16:45:38,"Jefferson, Gallagher and Tucker",INV-175,1440.27,HR,Office supplies
+07-06-2025,19:06:22,Gonzalez-Santiago,INV-120,2113.58,IT,Maintenance
+30-05-2025,1:40:05,Murray Inc,INV-198,4715.5,Operations,Training
+19-04-2025,23:55:25,Marks Ltd,INV-156,5245.31,Marketing,Software purchase
+09-04-2025,12:50:32,"Salinas, Aguirre and Wilson",INV-189,1286.98,Operations,License renewal
+01-07-2025,20:12:49,Smith-Lyons,INV-118,2051.34,HR,Consulting fee
+13-04-2025,13:05:44,"Salinas, Aguirre and Wilson",INV-170,1474.98,Operations,License renewal
+26-06-2025,5:34:15,Lucas-Smith,INV-154,1128.79,HR,Office supplies
+11-06-2025,12:15:15,Smith-Lyons,INV-128,3165.13,HR,Training
+10-05-2025,11:42:33,"Friedman, Adkins and Lee",INV-151,5271.1,HR,Office supplies
+07-04-2025,5:12:02,Dunn-Harris,INV-164,5277.54,Marketing,Consulting fee
+01-07-2025,15:40:45,"Russo, Fitzgerald and Guzman",INV-198,3638.72,Finance,Travel expenses
+10-06-2025,19:13:13,Lucas-Smith,INV-195,3246.66,Marketing,Travel expenses
+11-04-2025,15:15:24,Smith-Lyons,INV-112,2437.15,Operations,Travel expenses
+31-05-2025,12:11:55,Marks Ltd,INV-128,3272.47,Finance,Equipment
+28-05-2025,15:23:59,Marks Ltd,INV-134,2579.55,IT, 
+15-05-2025,15:10:31,Young Inc,INV-124,544.73,Marketing,Training
+07-06-2025,5:24:35,Hobbs Inc,INV-168,4320.31,HR,Maintenance
+18-05-2025,2:21:32,"Walters, Newton and Patterson",INV-177,6060.44,HR,Software purchase
+06-06-2025,21:12:33,"Friedman, Adkins and Lee",INV-121,1103.16,Operations, 
+30-05-2025,21:09:08,"Salinas, Aguirre and Wilson",INV-132,100000,IT,Maintenance
+20-04-2025,9:17:47,Young Inc,INV-130,6595.16,IT,Travel expenses
+01-07-2025,8:02:14,"Walters, Newton and Patterson",INV-130,3075.98,Operations,Travel expenses
+22-04-2025,7:08:25,"Friedman, Adkins and Lee",INV-198,100000,Finance,Travel expenses
+06-04-2025,15:26:27,Gonzalez-Santiago,INV-166,3045.24,Finance,License renewal
+09-06-2025,5:08:23,Marks Ltd,INV-175,3471,Finance,Travel expenses
+24-05-2025,5:45:51,"Velazquez, Santos and Davenport",INV-189,5821.74,Operations,Equipment
+11-05-2025,7:02:39,White Inc,INV-156,100000,IT,Utility bill
+06-05-2025,6:10:15,Smith-Lyons,INV-175,3885.21,Operations,Maintenance
+26-04-2025,8:05:21,"Velazquez, Santos and Davenport",INV-116,3953.71,HR,Office supplies
+25-05-2025,14:44:26,"Velazquez, Santos and Davenport",INV-122,5295.31,Finance,Travel expenses
+12-06-2025,12:15:07,"Moss, Hale and Cardenas",INV-195,3114.08,Operations,License renewal
+19-06-2025,3:00:29,Lucas-Smith,INV-194,3832.76,Marketing,Training
+17-06-2025,16:04:03,"Moss, Hale and Cardenas",INV-135,4467.99,Finance, 
+07-04-2025,4:51:02,"Hunter, Garcia and Acevedo",INV-160,4470.37,IT,Office supplies
+19-04-2025,10:56:41,"Salinas, Aguirre and Wilson",INV-179,2636.27,HR,Equipment
+22-04-2025,10:41:21,"Moss, Hale and Cardenas",INV-151,4497.96,Marketing,Consulting fee
+08-06-2025,7:14:01,White Inc,INV-168,2701.64,Marketing,Maintenance
+15-05-2025,7:42:55,Lucas-Smith,INV-116,4260.88,Marketing,
+27-04-2025,22:46:16,"Mendoza, Aguirre and Reed",INV-148,1302.97,IT,Training
+11-06-2025,7:57:21,White Inc,INV-131,396.41,Operations,Maintenance
+03-04-2025,14:47:56,Combs-Fitzpatrick,INV-130,3304.42,HR,Equipment
+17-06-2025,13:36:50,Marks Ltd,INV-198,10000,Finance,Training
+22-06-2025,2:07:11,"Friedman, Adkins and Lee",INV-181,2864.09,Operations,Equipment
+20-05-2025,12:07:00,"Young, Murphy and Melton",INV-101,4519.89,Operations,Maintenance
+19-06-2025,12:28:18,Hobbs Inc,INV-109,3449.86,Operations,Consulting fee
+14-04-2025,13:50:48,Combs-Fitzpatrick,INV-157,2285.01,Operations,Training
+23-06-2025,17:37:42,Smith-Lyons,INV-132,4116.57,Operations,Utility bill
+15-05-2025,15:26:25,"Friedman, Adkins and Lee",INV-118,4255.86,IT,Travel expenses
+20-06-2025,15:06:22,"Jefferson, Gallagher and Tucker",INV-121,3152.06,HR,Equipment
+13-05-2025,6:36:38,White Inc,INV-190,3857.85,Finance,Maintenance
+28-04-2025,15:59:47,Young Inc,INV-167,2991.78,Finance,Software purchase
+23-06-2025,16:35:04,"Mendoza, Aguirre and Reed",INV-113,2659.12,Finance,Software purchase
+09-04-2025,20:51:09,Combs-Fitzpatrick,INV-196,1650.82,HR,Software purchase
+28-05-2025,12:02:54,"Friedman, Adkins and Lee",INV-123,2331.87,HR,
+12-05-2025,20:40:11,"Jefferson, Gallagher and Tucker",INV-137,2726.34,Operations,Utility bill
+06-04-2025,13:40:06,"Russo, Fitzgerald and Guzman",INV-166,3352.34,HR,
+15-04-2025,20:07:18,"Mendoza, Aguirre and Reed",INV-138,2426.98,IT,Training
+07-04-2025,11:58:04,"Moss, Hale and Cardenas",INV-109,3429.66,Marketing,Equipment
+12-05-2025,13:57:23,"Young, Murphy and Melton",INV-127,2604.19,Finance,Utility bill
+12-06-2025,14:46:42,"Young, Murphy and Melton",INV-100,5792.96,HR,Training
+11-04-2025,22:01:13,"Mendoza, Aguirre and Reed",INV-151,1669.47,Marketing,Equipment
+07-06-2025,2:15:01,"Salinas, Aguirre and Wilson",INV-191,2569.04,HR,Consulting fee
+29-04-2025,20:12:12,"Salinas, Aguirre and Wilson",INV-122,2610.66,IT, 
+06-06-2025,9:18:30,"Hunter, Garcia and Acevedo",INV-172,2501.22,Finance,Maintenance
+18-05-2025,18:46:53,"Young, Murphy and Melton",INV-195,3661.98,Marketing,Consulting fee
+09-05-2025,21:47:20,"Hunter, Garcia and Acevedo",INV-160,1260.38,Marketing,Equipment
+24-05-2025,22:09:40,"Velazquez, Santos and Davenport",INV-185,1617.53,HR,Maintenance
+06-04-2025,10:25:16,"Jefferson, Gallagher and Tucker",INV-167,2442.24,IT,
+17-05-2025,7:59:23,Lucas-Smith,INV-193,2489.88,Operations,Utility bill
+30-04-2025,9:08:21,Smith-Lyons,INV-150,2884.98,Operations,Office supplies
+15-05-2025,19:13:42,White Inc,INV-161,3788.65,IT,Maintenance
+17-06-2025,20:03:20,"Mendoza, Aguirre and Reed",INV-118,1810.53,Marketing,
+03-06-2025,14:21:06,"Walters, Newton and Patterson",INV-146,5430.54,HR,Software purchase
+23-05-2025,20:06:13,"Moss, Hale and Cardenas",INV-110,3536.05,Operations,License renewal
+19-05-2025,2:10:41,"Moss, Hale and Cardenas",INV-186,5205.44,Marketing,Software purchase
+16-04-2025,5:23:05,Dunn-Harris,INV-158,1713.8,Marketing,Utility bill
+26-06-2025,11:20:11,"Walters, Newton and Patterson",INV-141,2752.64,Operations,Maintenance
+24-05-2025,2:46:30,Dunn-Harris,INV-142,2222.6,HR,Equipment
+21-05-2025,7:00:32,"Jefferson, Gallagher and Tucker",INV-147,3965.77,Finance,Maintenance
+19-04-2025,2:52:39,"Velazquez, Santos and Davenport",INV-161,3522.88,Marketing,Consulting fee
+27-05-2025,8:48:27,"Friedman, Adkins and Lee",INV-181,3124.51,Operations,Maintenance
+20-05-2025,12:01:25,Smith-Lyons,INV-187,4719.42,Finance,Training
+24-05-2025,0:38:37,"Moss, Hale and Cardenas",INV-200,4771.54,Operations,License renewal
+23-04-2025,7:47:07,Murray Inc,INV-179,3428.81,Marketing,Equipment
+13-06-2025,4:15:53,"Hunter, Garcia and Acevedo",INV-170,4001.99,HR,Equipment
+18-04-2025,16:31:15,"Walters, Newton and Patterson",INV-103,1713.96,Marketing,License renewal
+09-04-2025,13:28:18,Lucas-Smith,INV-186,2941.26,HR,Utility bill
+27-05-2025,22:24:26,"Friedman, Adkins and Lee",INV-177,2259.5,IT,License renewal
+13-05-2025,17:52:39,Dunn-Harris,INV-138,3892.67,IT,License renewal
+27-04-2025,1:50:16,Combs-Fitzpatrick,INV-178,3381.99,Operations,Software purchase
+04-05-2025,19:51:13,Gonzalez-Santiago,INV-110,2258.47,HR,Utility bill
+28-05-2025,19:04:38,"Mendoza, Aguirre and Reed",INV-192,3892.01,Marketing,Utility bill
+18-04-2025,2:36:51,"Velazquez, Santos and Davenport",INV-182,3331.33,IT,License renewal
+06-04-2025,10:53:36,Hobbs Inc,INV-153,3722.47,HR,License renewal
+20-04-2025,6:07:17,Smith-Lyons,INV-134,4255.96,IT, 
+31-05-2025,8:31:40,"Walters, Newton and Patterson",INV-136,1271.65,Marketing,Office supplies
+29-04-2025,3:45:07,Dunn-Harris,INV-175,1684.29,HR,Training
+28-04-2025,12:56:39,"Moss, Hale and Cardenas",INV-176,10000,Operations,Travel expenses
+29-04-2025,23:16:38,"Young, Murphy and Melton",INV-119,5457.01,Finance,Travel expenses
+21-05-2025,4:34:46,Combs-Fitzpatrick,INV-165,2480.36,Finance,Equipment
+23-04-2025,23:15:10,Combs-Fitzpatrick,INV-126,4158.82,Marketing,Office supplies
+29-06-2025,8:48:42,Dunn-Harris,INV-189,2373.22,Finance,Office supplies
+26-06-2025,0:00:37,Hobbs Inc,INV-156,10000,Finance,Software purchase
+12-04-2025,22:35:42,"Walters, Newton and Patterson",INV-149,5006.14,Finance,Software purchase
+20-06-2025,19:01:46,Murray Inc,INV-175,1316.34,Finance,Training
+26-04-2025,4:31:26,Combs-Fitzpatrick,INV-172,4446.41,IT,Training
+15-06-2025,1:40:23,Marks Ltd,INV-120,2337.65,Marketing,License renewal
+04-05-2025,12:16:47,"Russo, Fitzgerald and Guzman",INV-171,2732.52,Operations,Consulting fee
+19-04-2025,8:08:19,Smith-Lyons,INV-195,2212.8,IT,Equipment
+27-04-2025,5:05:25,"Salinas, Aguirre and Wilson",INV-194,1164.58,Marketing,Training
+03-05-2025,2:29:06,"Jefferson, Gallagher and Tucker",INV-137,5493.72,IT,Utility bill
+10-04-2025,19:03:08,"Russo, Fitzgerald and Guzman",INV-189,861.57,IT,License renewal
+21-05-2025,21:18:25,Murray Inc,INV-110,2647.54,Marketing,
+03-04-2025,11:46:40,Combs-Fitzpatrick,INV-118,6163.21,Operations,
+19-06-2025,21:33:21,Young Inc,INV-184,4111.08,Finance,License renewal
+28-04-2025,17:12:05,Gonzalez-Santiago,INV-128,10000,HR,Software purchase
+28-04-2025,18:56:14,Smith-Lyons,INV-143,4034.56,Operations,Office supplies
+23-06-2025,12:48:56,"Russo, Fitzgerald and Guzman",INV-191,4455.41,Operations,Travel expenses
+11-06-2025,18:08:11,"Mendoza, Aguirre and Reed",INV-184,1969.07,HR,
+26-05-2025,22:11:13,"Friedman, Adkins and Lee",INV-145,1494.95,Finance, 
+19-06-2025,9:50:01,Young Inc,INV-114,0,Finance,Software purchase
+21-05-2025,5:13:55,White Inc,INV-152,2424.92,Finance,Software purchase
+11-06-2025,12:41:47,"Hunter, Garcia and Acevedo",INV-189,2679.55,Marketing,Office supplies
+08-04-2025,3:46:35,"Friedman, Adkins and Lee",INV-167,4311,Finance,Equipment
+25-05-2025,23:26:31,"Walters, Newton and Patterson",INV-165,5297.39,HR,Maintenance
+05-05-2025,22:05:19,Marks Ltd,INV-179,2841.68,HR,Software purchase
+10-06-2025,17:15:48,"Young, Murphy and Melton",INV-103,3054.26,Operations,Maintenance
+24-06-2025,1:18:59,White Inc,INV-100,1000,IT,
+22-04-2025,19:34:57,"Russo, Fitzgerald and Guzman",INV-160,10000,Finance,License renewal
+24-04-2025,12:43:44,Lucas-Smith,INV-161,2091.48,Finance,License renewal
+14-04-2025,7:11:44,"Young, Murphy and Melton",INV-167,4146.9,Finance,Consulting fee
+03-04-2025,15:33:47,White Inc,INV-115,4801.3,Finance,Software purchase
+11-05-2025,23:03:10,"Hunter, Garcia and Acevedo",INV-126,4207.71,HR,Software purchase
+08-04-2025,7:55:31,Marks Ltd,INV-157,2803.21,IT,
+26-06-2025,3:00:27,"Jefferson, Gallagher and Tucker",INV-182,817.3,HR,Software purchase
+18-06-2025,19:51:31,"Salinas, Aguirre and Wilson",INV-122,7006.89,Marketing,Maintenance
+06-04-2025,1:16:28,"Russo, Fitzgerald and Guzman",INV-148,3272.55,Operations,Training
+21-06-2025,13:00:09,Young Inc,INV-151,4668.77,HR,License renewal
+10-04-2025,18:18:24,Combs-Fitzpatrick,INV-138,3616.11,IT,
+14-06-2025,8:16:05,"Russo, Fitzgerald and Guzman",INV-180,1919.51,Operations,Maintenance
+09-06-2025,3:41:52,Dunn-Harris,INV-138,3910.48,HR,Software purchase
+23-05-2025,4:45:54,"Mendoza, Aguirre and Reed",INV-145,2817.41,IT,License renewal
+31-05-2025,11:44:09,Murray Inc,INV-124,2104.95,Finance, 
+12-05-2025,1:44:18,Lucas-Smith,INV-181,2054.31,Marketing,License renewal
+17-05-2025,20:48:09,"Mendoza, Aguirre and Reed",INV-190,3580.98,Operations,
+29-06-2025,19:25:29,Young Inc,INV-152,2521.53,IT,Equipment
+11-05-2025,23:00:14,"Russo, Fitzgerald and Guzman",INV-103,5211.72,IT,Software purchase
+03-05-2025,4:54:34,Young Inc,INV-116,2806.96,Finance,Software purchase
+11-05-2025,20:40:45,"Velazquez, Santos and Davenport",INV-195,2501.77,Marketing,Consulting fee
+31-05-2025,14:25:44,"Young, Murphy and Melton",INV-171,3968.73,Finance,
+31-05-2025,18:00:18,White Inc,INV-125,2602.77,HR,Software purchase
+16-06-2025,14:16:13,"Young, Murphy and Melton",INV-125,812.23,IT,Software purchase
+04-04-2025,14:14:35,Murray Inc,INV-150,4660.42,Finance,Software purchase
+10-04-2025,22:21:26,"Young, Murphy and Melton",INV-108,5074.37,Finance,Consulting fee
+08-05-2025,6:06:17,"Jefferson, Gallagher and Tucker",INV-169,4745.62,IT,Utility bill
+08-06-2025,10:22:12,"Mendoza, Aguirre and Reed",INV-145,4369.39,Finance,Equipment
+12-04-2025,2:08:22,"Russo, Fitzgerald and Guzman",INV-195,3316.91,HR,Maintenance
+12-04-2025,17:54:25,"Russo, Fitzgerald and Guzman",INV-145,3080.03,Finance,Travel expenses
+28-06-2025,2:00:48,"Walters, Newton and Patterson",INV-126,4054.15,Operations,Software purchase
+08-05-2025,8:53:57,Smith-Lyons,INV-194,2991.74,Marketing,License renewal
+01-07-2025,20:44:17,"Mendoza, Aguirre and Reed",INV-196,75000,HR,License renewal
+09-06-2025,16:03:42,Marks Ltd,INV-111,3911.67,Finance,Consulting fee
+21-05-2025,10:30:04,"Jefferson, Gallagher and Tucker",INV-138,5438.23,IT,Maintenance
+24-06-2025,15:49:02,"Young, Murphy and Melton",INV-187,3455.43,Marketing,Office supplies
+17-05-2025,4:26:55,"Salinas, Aguirre and Wilson",INV-158,2874.32,HR,Office supplies
+27-04-2025,17:55:02,"Mendoza, Aguirre and Reed",INV-171,3941.58,IT, 
+07-05-2025,3:08:57,"Hunter, Garcia and Acevedo",INV-105,1649.15,Finance,Equipment
+18-04-2025,23:16:43,"Young, Murphy and Melton",INV-157,100000,IT,
+06-06-2025,20:21:20,Young Inc,INV-121,1476.69,Marketing,Training
+19-05-2025,15:08:42,"Jefferson, Gallagher and Tucker",INV-130,4658.51,HR,License renewal
+24-04-2025,12:02:38,Gonzalez-Santiago,INV-114,1243.56,Marketing,Utility bill
+03-06-2025,9:52:06,"Friedman, Adkins and Lee",INV-177,5269.64,Finance,Office supplies
+29-04-2025,1:47:35,"Jefferson, Gallagher and Tucker",INV-133,4971.44,Operations,Utility bill
+15-06-2025,16:04:21,Smith-Lyons,INV-146,1313.87,Operations,Office supplies
+09-05-2025,4:12:50,Young Inc,INV-103,4518.38,Finance,Software purchase
+11-06-2025,6:05:09,White Inc,INV-119,3552.48,Marketing,Consulting fee
+22-06-2025,16:42:34,"Walters, Newton and Patterson",INV-108,5580.93,Marketing,Office supplies
+11-04-2025,13:27:17,"Russo, Fitzgerald and Guzman",INV-105,4136.67,HR,License renewal
+05-05-2025,8:45:59,"Russo, Fitzgerald and Guzman",INV-118,1151.67,HR,Equipment
+02-06-2025,21:19:31,White Inc,INV-108,3869.74,Marketing,License renewal
+02-05-2025,0:52:07,Murray Inc,INV-132,5265.19,Operations,Utility bill
+19-06-2025,7:43:27,Hobbs Inc,INV-110,3387.55,HR,Utility bill
+09-05-2025,4:37:44,Lucas-Smith,INV-157,405.77,Operations,Training
+08-05-2025,11:34:20,Gonzalez-Santiago,INV-177,4649.45,IT,Software purchase
+03-05-2025,13:57:19,"Moss, Hale and Cardenas",INV-131,3170.07,Marketing,Training
+14-06-2025,11:35:44,White Inc,INV-181,3076.19,Operations,Travel expenses
+08-04-2025,19:15:19,Dunn-Harris,INV-166,4676.6,IT,License renewal
+29-06-2025,20:01:51,"Jefferson, Gallagher and Tucker",INV-170,1919.28,HR,Maintenance
+19-06-2025,3:15:59,White Inc,INV-124,1821.76,Finance,Consulting fee
+11-06-2025,9:18:55,Gonzalez-Santiago,INV-184,1481.53,HR,Maintenance
+17-04-2025,10:19:54,"Moss, Hale and Cardenas",INV-121,1128.05,IT,Maintenance
+17-05-2025,7:56:29,"Hunter, Garcia and Acevedo",INV-120,3044.38,Marketing,Training
+21-04-2025,17:42:23,Smith-Lyons,INV-126,3445.69,Finance,
+25-05-2025,21:12:39,"Friedman, Adkins and Lee",INV-118,2098.67,IT,Maintenance
+21-04-2025,8:48:21,"Salinas, Aguirre and Wilson",INV-193,1689.84,IT,Equipment
+13-05-2025,16:00:37,"Salinas, Aguirre and Wilson",INV-102,503.65,Operations,Training
+16-06-2025,14:34:06,"Walters, Newton and Patterson",INV-124,3601.63,Operations,Maintenance
+30-05-2025,4:51:42,Young Inc,INV-131,1803.95,Operations,Training
+01-05-2025,2:34:10,"Salinas, Aguirre and Wilson",INV-121,2453.81,Operations,Utility bill
+04-04-2025,8:25:26,Combs-Fitzpatrick,INV-177,75000,Marketing,Maintenance
+24-05-2025,23:43:52,Murray Inc,INV-112,3169.39,IT,Consulting fee
+13-04-2025,13:16:13,"Velazquez, Santos and Davenport",INV-129,404.06,Marketing, 
+23-05-2025,5:48:08,"Hunter, Garcia and Acevedo",INV-159,3492.1,Finance,Training
+21-05-2025,7:38:36,"Moss, Hale and Cardenas",INV-155,2968.98,HR,Equipment
+03-06-2025,19:41:25,"Salinas, Aguirre and Wilson",INV-114,870.47,Finance,Office supplies
+03-06-2025,1:26:28,White Inc,INV-107,2720.31,HR,Travel expenses
+06-06-2025,12:58:26,"Young, Murphy and Melton",INV-111,4271.47,HR,Software purchase
+01-05-2025,19:17:13,"Friedman, Adkins and Lee",INV-196,1217.45,Marketing,Utility bill
+16-04-2025,3:51:19,"Jefferson, Gallagher and Tucker",INV-145,2554.38,Finance,Office supplies
+14-05-2025,10:40:55,"Hunter, Garcia and Acevedo",INV-131,1522.61,HR,Office supplies
+23-04-2025,1:06:05,"Jefferson, Gallagher and Tucker",INV-193,6016.25,Marketing, 
+18-04-2025,23:49:26,Hobbs Inc,INV-166,1784.87,Marketing,Software purchase
+07-05-2025,0:17:33,"Walters, Newton and Patterson",INV-199,4000,Operations, 
+02-06-2025,10:38:21,Marks Ltd,INV-182,944.76,Marketing,Training
+21-05-2025,15:03:37,"Jefferson, Gallagher and Tucker",INV-123,3578.05,HR,Training
+15-06-2025,12:28:47,Murray Inc,INV-142,4524.67,Marketing,License renewal
+23-04-2025,19:44:30,Combs-Fitzpatrick,INV-133,2232.62,Marketing,License renewal
+29-04-2025,5:17:57,Gonzalez-Santiago,INV-133,4003.51,Marketing,Software purchase
+27-05-2025,17:42:50,Murray Inc,INV-158,2371.01,Operations,Software purchase
+01-06-2025,8:40:40,"Friedman, Adkins and Lee",INV-143,4343.67,Finance,Office supplies
+27-06-2025,2:54:07,Dunn-Harris,INV-152,3094.65,Operations,License renewal
+15-04-2025,6:16:17,Gonzalez-Santiago,INV-152,4352.43,Marketing,Office supplies
+12-06-2025,22:22:24,Smith-Lyons,INV-199,1678.49,HR,Maintenance
+17-05-2025,6:55:54,Lucas-Smith,INV-159,1704.82,IT,Maintenance
+16-06-2025,14:16:20,Hobbs Inc,INV-156,2380.91,HR,Utility bill
+11-05-2025,12:43:11,"Velazquez, Santos and Davenport",INV-145,3007.66,Marketing,
+06-04-2025,3:53:46,Smith-Lyons,INV-142,2309.04,HR,Maintenance
+26-06-2025,23:22:24,"Velazquez, Santos and Davenport",INV-108,2991.15,Marketing,License renewal
+03-06-2025,1:45:55,Marks Ltd,INV-130,3173.35,Finance,Maintenance
+17-05-2025,2:47:01,Murray Inc,INV-137,4108.91,IT,Travel expenses
+20-05-2025,8:55:07,White Inc,INV-154,5174.38,HR,Office supplies
+14-06-2025,4:37:52,White Inc,INV-127,2925.84,IT,License renewal
+05-06-2025,21:41:55,Hobbs Inc,INV-171,762.6,Marketing,Training
+02-05-2025,13:41:39,"Velazquez, Santos and Davenport",INV-174,1680.16,Marketing,Training
+06-04-2025,19:59:32,"Friedman, Adkins and Lee",INV-118,1501.63,Operations,Office supplies
+02-05-2025,14:49:46,Marks Ltd,INV-115,1469.08,HR,Travel expenses
+07-04-2025,8:50:41,"Moss, Hale and Cardenas",INV-180,1257.22,Operations,Travel expenses
+13-05-2025,3:26:22,"Walters, Newton and Patterson",INV-127,1563.61,Finance,License renewal
+11-04-2025,16:24:34,"Walters, Newton and Patterson",INV-120,4169.34,IT,
+27-06-2025,14:52:52,"Hunter, Garcia and Acevedo",INV-142,2273.64,Operations,License renewal
+18-05-2025,18:55:05,"Jefferson, Gallagher and Tucker",INV-122,1450.83,HR,Office supplies
+09-05-2025,8:47:12,Murray Inc,INV-114,2991.96,Operations,Maintenance
+28-06-2025,7:53:01,Murray Inc,INV-101,1873.65,Operations,License renewal
+22-05-2025,1:24:29,Murray Inc,INV-124,75000,IT,Utility bill
+26-06-2025,14:12:15,Lucas-Smith,INV-152,3152.79,Operations,Travel expenses
+12-04-2025,16:24:13,Young Inc,INV-156,3161.97,IT,Consulting fee
+20-04-2025,5:17:44,"Friedman, Adkins and Lee",INV-163,3937.16,HR,Training
+18-06-2025,17:29:06,Hobbs Inc,INV-123,939.29,HR,Consulting fee
+28-06-2025,2:46:45,"Velazquez, Santos and Davenport",INV-148,45.85,IT,Office supplies
+01-06-2025,12:41:11,Hobbs Inc,INV-172,6281.83,Operations,Maintenance
+17-06-2025,2:49:03,"Velazquez, Santos and Davenport",INV-198,2354.18,Marketing,License renewal
+04-06-2025,0:51:05,Hobbs Inc,INV-102,10000,Finance,Utility bill
+17-06-2025,16:12:52,"Jefferson, Gallagher and Tucker",INV-149,1686.24,HR,License renewal
+20-04-2025,17:50:05,Hobbs Inc,INV-178,3799.04,Marketing,Travel expenses
+19-06-2025,0:10:58,"Salinas, Aguirre and Wilson",INV-158,4101.72,IT,Travel expenses
+14-06-2025,22:28:25,Smith-Lyons,INV-124,2201.98,IT, 
+23-06-2025,5:33:24,"Friedman, Adkins and Lee",INV-100,10000,HR, 
+02-06-2025,4:23:33,Murray Inc,INV-182,2061.06,IT,Training
+02-06-2025,18:29:47,"Jefferson, Gallagher and Tucker",INV-130,3312.82,Finance,Training
+13-04-2025,8:10:40,Combs-Fitzpatrick,INV-161,3411.48,IT,Maintenance
+24-05-2025,3:03:26,Smith-Lyons,INV-170,3105.26,Finance,Travel expenses
+02-05-2025,14:32:15,Combs-Fitzpatrick,INV-164,3852.47,Operations,License renewal
+12-06-2025,19:14:04,"Walters, Newton and Patterson",INV-180,2487.71,IT,Maintenance
+04-04-2025,14:50:03,White Inc,INV-148,3608.91,IT,Consulting fee
+06-04-2025,1:40:47,"Friedman, Adkins and Lee",INV-109,3000,HR,Software purchase
+07-05-2025,17:17:21,"Friedman, Adkins and Lee",INV-101,1207.49,IT,Utility bill
+25-05-2025,2:46:19,"Jefferson, Gallagher and Tucker",INV-111,3774.47,Operations,Utility bill
+03-04-2025,10:47:46,Dunn-Harris,INV-121,1205.65,IT,Utility bill
+07-04-2025,18:45:48,Dunn-Harris,INV-194,5104.93,Marketing,Training
+20-06-2025,3:56:17,Young Inc,INV-135,2241.63,Finance,Training
+16-05-2025,10:03:03,White Inc,INV-106,4712.96,IT,Consulting fee
+16-05-2025,8:53:51,Young Inc,INV-198,4148.73,Marketing,Maintenance
+02-06-2025,9:01:10,"Hunter, Garcia and Acevedo",INV-110,4015.25,IT,Office supplies
+09-06-2025,9:10:14,Murray Inc,INV-111,2188.25,IT,Consulting fee
+26-04-2025,14:22:30,White Inc,INV-173,2509.67,Marketing,Equipment
+09-05-2025,11:37:51,"Friedman, Adkins and Lee",INV-125,614.58,Finance, 
+17-05-2025,2:40:34,"Moss, Hale and Cardenas",INV-182,209.91,HR,Travel expenses
+01-05-2025,2:38:41,"Friedman, Adkins and Lee",INV-144,4067.52,HR,Office supplies
+07-06-2025,8:12:11,"Moss, Hale and Cardenas",INV-193,4311.52,HR,Travel expenses
+28-05-2025,19:27:33,Marks Ltd,INV-131,1725.07,HR,Utility bill
+27-04-2025,12:42:14,"Hunter, Garcia and Acevedo",INV-178,3925.13,Finance,Consulting fee
+04-04-2025,18:12:51,"Salinas, Aguirre and Wilson",INV-143,1897.5,Marketing,Office supplies
+10-04-2025,18:42:13,"Mendoza, Aguirre and Reed",INV-117,2846.41,Operations,Software purchase
+16-04-2025,9:34:54,"Hunter, Garcia and Acevedo",INV-117,5376.45,Operations,Training
+04-06-2025,4:10:38,Dunn-Harris,INV-170,4813.62,Marketing, 
+07-05-2025,9:11:15,"Walters, Newton and Patterson",INV-126,557.19,HR,Software purchase
+28-06-2025,15:23:56,Hobbs Inc,INV-153,532.1,Marketing, 
+20-05-2025,8:54:38,"Mendoza, Aguirre and Reed",INV-130,4489.44,HR,Consulting fee
+28-04-2025,11:05:47,"Jefferson, Gallagher and Tucker",INV-178,1842.32,IT,Maintenance
+11-05-2025,14:53:27,Combs-Fitzpatrick,INV-162,3604.09,Operations,Consulting fee
+16-05-2025,20:39:40,"Friedman, Adkins and Lee",INV-129,1845.27,Operations,
+11-05-2025,18:37:09,Lucas-Smith,INV-161,3926.02,Operations, 
+04-04-2025,12:12:41,"Walters, Newton and Patterson",INV-143,694.94,HR,Software purchase
+12-05-2025,3:10:42,"Jefferson, Gallagher and Tucker",INV-117,2094.69,HR,License renewal
+15-06-2025,5:24:36,Smith-Lyons,INV-114,5609.98,IT,Office supplies
+04-06-2025,7:05:42,"Walters, Newton and Patterson",INV-107,1364.11,HR,Equipment
+26-06-2025,2:07:42,"Velazquez, Santos and Davenport",INV-162,4136.38,Operations,Consulting fee
+27-06-2025,22:42:51,Lucas-Smith,INV-142,2834.97,Marketing, 
+11-05-2025,2:33:24,Young Inc,INV-142,2520.34,Operations,Consulting fee
+20-06-2025,4:43:28,Hobbs Inc,INV-167,4487.43,Finance,Training
+10-05-2025,8:50:15,"Young, Murphy and Melton",INV-148,4063.66,Finance,
+10-05-2025,21:44:02,Lucas-Smith,INV-129,1305.05,IT,Office supplies
+31-05-2025,6:57:26,Lucas-Smith,INV-120,1178.69,Marketing,Training
+27-04-2025,17:39:27,"Salinas, Aguirre and Wilson",INV-104,4623.22,Operations,Utility bill
+25-05-2025,9:54:49,"Russo, Fitzgerald and Guzman",INV-177,3000,Operations,Software purchase
+11-06-2025,3:40:28,Young Inc,INV-181,992.45,Finance,Software purchase
+03-04-2025,6:17:43,"Walters, Newton and Patterson",INV-147,170.89,Finance,Maintenance
+08-06-2025,0:06:27,"Hunter, Garcia and Acevedo",INV-122,5036.51,Marketing,Utility bill
+02-05-2025,3:06:25,"Moss, Hale and Cardenas",INV-175,3497.36,IT,
+03-04-2025,20:08:39,Marks Ltd,INV-164,3754.39,Finance,License renewal
+06-05-2025,9:16:31,"Friedman, Adkins and Lee",INV-170,4553.84,Finance,
+14-04-2025,12:23:59,"Velazquez, Santos and Davenport",INV-199,2907.65,Finance,Travel expenses
+25-05-2025,15:55:36,Young Inc,INV-111,3725.88,Finance,Equipment
+19-04-2025,20:56:31,"Jefferson, Gallagher and Tucker",INV-154,4465.08,Finance,Office supplies
+25-04-2025,13:00:08,Hobbs Inc,INV-145,5548.83,Marketing,Training
+07-05-2025,1:03:55,"Jefferson, Gallagher and Tucker",INV-186,1003.69,IT,
+22-05-2025,3:35:37,Murray Inc,INV-134,4639.34,HR,Consulting fee
+27-04-2025,22:06:15,Lucas-Smith,INV-196,2725.51,Finance, 
+24-05-2025,1:47:50,Combs-Fitzpatrick,INV-161,4177.33,Operations,Maintenance
+23-06-2025,12:47:46,"Jefferson, Gallagher and Tucker",INV-155,3961.11,Finance,Office supplies
+14-06-2025,5:17:03,"Walters, Newton and Patterson",INV-145,3091.37,Finance,Equipment
+15-05-2025,13:52:29,"Mendoza, Aguirre and Reed",INV-175,1826.78,Operations,
+05-06-2025,0:54:56,"Mendoza, Aguirre and Reed",INV-199,3846.64,Operations,
+15-06-2025,6:45:48,Hobbs Inc,INV-184,100000,Finance,Maintenance
+27-04-2025,11:06:20,"Walters, Newton and Patterson",INV-154,4501.47,Operations,Office supplies
+12-04-2025,14:23:38,Hobbs Inc,INV-188,2724.27,Finance,
+10-06-2025,1:11:13,Dunn-Harris,INV-111,2000,Marketing,Consulting fee
+27-05-2025,12:00:51,"Friedman, Adkins and Lee",INV-178,0,Marketing,Utility bill
+30-06-2025,1:26:38,"Velazquez, Santos and Davenport",INV-131,3875.79,IT,Utility bill
+16-04-2025,13:23:03,"Salinas, Aguirre and Wilson",INV-186,4099.5,Operations, 
+05-06-2025,22:10:10,Combs-Fitzpatrick,INV-171,2476.59,IT, 
+26-05-2025,11:59:52,Smith-Lyons,INV-156,3248.79,Finance,Maintenance
+16-04-2025,8:22:56,"Jefferson, Gallagher and Tucker",INV-146,3657.42,Finance,Travel expenses
+04-04-2025,7:11:49,Smith-Lyons,INV-140,50000,Marketing,Maintenance
+06-06-2025,7:06:47,"Velazquez, Santos and Davenport",INV-124,4862.32,IT,Equipment
